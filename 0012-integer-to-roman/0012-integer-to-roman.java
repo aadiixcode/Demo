@@ -1,20 +1,20 @@
 class Solution {
     public String intToRoman(int n) {
-        Map<Integer,String> mp = new HashMap<>();
-        mp.put(1,"I");
-        mp.put(4,"IV");
-        mp.put(5,"V");
-        mp.put(9,"IX");
-        mp.put(10,"X");
-        mp.put(40,"XL");
-        mp.put(50,"L");
-        mp.put(90,"XC");
-        mp.put(100,"C");
-        mp.put(400,"CD");
-        mp.put(500,"D");
-        mp.put(900,"CM");
-        mp.put(1000,"M");
-
+        String[] arr = new String[1000+1];
+        arr[1] = "I";
+        arr[4] = "IV";
+        arr[5] = "V";
+        arr[9] = "IX";
+        arr[10] = "X";
+        arr[40] = "XL";
+        arr[50] = "L";
+        arr[90] = "XC";
+        arr[100] = "C";
+        arr[400] = "CD";
+        arr[500] = "D";
+        arr[900] = "CM";
+        arr[1000] = "M";
+        
         int digit = (int) Math.log10(n);
         int power = (int) Math.pow(10,digit);
         StringBuilder sb = new StringBuilder();
@@ -22,18 +22,18 @@ class Solution {
         while(n>0){
             int q = n/power;
             if(q==4 || q==9){
-                sb.append(mp.get(q*power));
+                sb.append(arr[q*power]);
             }
             else if(q<4){
                 while(q>0){
-                    sb.append(mp.get(power));
+                    sb.append(arr[power]);
                     q-=1;
                 }
             }
             else if(q>=5){
-                sb.append(mp.get(5*power));
+                sb.append(arr[5*power]);
                 while(q>5){
-                    sb.append(mp.get(power));
+                    sb.append(arr[power]);
                     q-=1;
                 }
             }
