@@ -7,8 +7,10 @@ class Solution {
             for(int j=i;j<n;j++){
                 if(nums[j]==target){
                     count += 1;
+                }else{
+                    count-=1;
                 }
-                if(count > (j-i+1)/2){
+                if(count > 0){
                     ans+=1;
                 }
             }
