@@ -18,7 +18,6 @@ class Solution {
                 count -= freq[n+sum];
             }
             ans += 1L * count;
-            // mp.put(sum,mp.getOrDefault(sum,0)+1);
             freq[n+sum] += 1;
         }
         return ans;
