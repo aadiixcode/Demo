@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadiixcode/Demo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadiixcode/Demo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadiixcode/Demo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
