@@ -7,16 +7,23 @@ class Solution {
 
         int ans = 0;
         for(int e: nums){
-            int count=0;
             if(e==1){
                int freq=mp.get(1);
                if((freq & 1) == 0){
-                count=freq-1;
+                ans = Math.max(ans,freq-1);
                }else{
-                count=freq;
+                ans = Math.max(ans,freq);
                }
+               continue;
             }
+
+            int root = (int) Math.sqrt(e);
+            if((root*root==e) && mp.containsKey(root) && mp.get(root)>=2){
+                continue;
+            }
+
             else {
+                int count=0;
                 while(true){
                     if(mp.containsKey(e)){
                         if(mp.get(e)>=2) count+=2;
@@ -31,8 +38,8 @@ class Solution {
                     }
                     e=e*e;
                 }
+                ans = Math.max(ans,count);
             }
-            ans = Math.max(ans,count);
         }
         return ans;
     }
