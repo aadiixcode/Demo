@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadiixcode/Demo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2906-construct-product-matrix](https://github.com/aadiixcode/Demo/tree/master/2906-construct-product-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3701-compute-alternating-sum](https://github.com/aadiixcode/Demo/tree/master/3701-compute-alternating-sum) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadiixcode/Demo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadiixcode/Demo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
