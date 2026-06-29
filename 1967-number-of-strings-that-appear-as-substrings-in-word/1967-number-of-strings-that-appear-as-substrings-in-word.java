@@ -10,8 +10,11 @@ class Solution {
             StringBuilder sb = new StringBuilder();
             for(int j=i;j<word.length();j++){
                 sb.append(word.charAt(j));
-                ans += mp.getOrDefault(sb.toString(),0);
-                mp.remove(sb.toString());
+                String s = sb.toString();
+                if(mp.containsKey(s)){
+                    ans += mp.get(s);
+                    mp.remove(s);
+                }
             }
         }
         return ans;
