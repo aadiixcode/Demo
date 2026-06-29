@@ -9,6 +9,9 @@ class Solution {
         for(int i=0;i<word.length();i++){
             StringBuilder sb = new StringBuilder();
             for(int j=i;j<word.length();j++){
+                if(mp.size()==0){
+                    return ans;
+                }
                 sb.append(word.charAt(j));
                 String s = sb.toString();
                 if(mp.containsKey(s)){
