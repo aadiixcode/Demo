@@ -1,25 +1,20 @@
 class Solution {
     static int[] vis;
 
-    static boolean bfs(int i,int[][] graph){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(i);
+    static boolean dfs(int i,int[][] graph){
+        Stack<Integer> st = new Stack<>();
+        st.add(i);
         vis[i] = 0;
 
-        while(!q.isEmpty()){
-            int curr = q.poll();
+        while(!st.isEmpty()){
+            int curr = st.pop();
             for(int nei: graph[curr]){
                 if(vis[nei]!=-1 && vis[nei]==vis[curr]){
                     return false;
                 }
                 else if(vis[nei]==-1){
-                    if(vis[curr]==0){
-                        vis[nei]=1;
-                    }
-                    else{
-                        vis[nei]=0;
-                    }
-                    q.add(nei);
+                    vis[nei] = (vis[curr]==0) ? 1 : 0;
+                    st.push(nei);
                 }
             }
         }
@@ -34,7 +29,7 @@ class Solution {
 
         for(int i=0;i<nodes;i++){
             if(vis[i]==-1){
-                if(!bfs(i,graph)) return false;
+                if(!dfs(i,graph)) return false;
             }
         }
         return true;
