@@ -9,14 +9,11 @@ class Solution {
 
         int maxEnd = intervals[0][1];
         int ans = 1;
-
         for (int i = 1; i < intervals.length; i++) {
-            int[] i1 = intervals[i];
-            if (i1[1] <= maxEnd) {
-                continue;
-            } else {
-                ans+=1;
-                maxEnd = i1[1];
+            int[] interval = intervals[i];
+            if (interval[1] > maxEnd) {
+                ans += 1;
+                maxEnd = interval[1];
             }
         }
         return ans;
