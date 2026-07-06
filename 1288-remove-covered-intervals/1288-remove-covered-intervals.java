@@ -13,7 +13,7 @@ class Solution {
         for (int i = 1; i < intervals.length; i++) {
             int[] i1 = intervals[i];
             int[] i2 = temp.getLast();
-            if (i1[0] >= i2[0] && i1[1] <= i2[1]) {
+            if (i1[1] <= i2[1]) {
                 continue;
             } else {
                 temp.add(i1);
