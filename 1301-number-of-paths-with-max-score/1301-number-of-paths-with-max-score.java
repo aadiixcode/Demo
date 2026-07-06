@@ -2,7 +2,6 @@ class Solution {
 
     static class Pair {
         int score, paths;
-
         Pair(int s, int p) {
             score = s;
             paths = p;
