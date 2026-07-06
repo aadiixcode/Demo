@@ -7,18 +7,18 @@ class Solution {
             return b[1]-a[1]; // Descending end time
         });
 
-        List<int[]> temp = new ArrayList<>();
-        temp.add(intervals[0]);
+        int maxEnd = intervals[0][1];
+        int ans = 1;
 
         for (int i = 1; i < intervals.length; i++) {
             int[] i1 = intervals[i];
-            int[] i2 = temp.getLast();
-            if (i1[1] <= i2[1]) {
+            if (i1[1] <= maxEnd) {
                 continue;
             } else {
-                temp.add(i1);
+                ans+=1;
+                maxEnd = i1[1];
             }
         }
-        return temp.size();
+        return ans;
     }
 }
