@@ -11,8 +11,10 @@ class Solution {
         int ans = 1;
         for (int i = 1; i < intervals.length; i++) {
             int[] interval = intervals[i];
-            if (interval[1] > maxEnd) {
-                ans += 1;
+            if (interval[1] <= maxEnd) {
+                continue;
+            } else {
+                ans+=1;
                 maxEnd = interval[1];
             }
         }
