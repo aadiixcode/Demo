@@ -3,7 +3,7 @@ class Solution {
         if(n==0) return 0;
 
         String s = String.valueOf(n);
-        long sum = 0;
+        int sum = 0;
         long x = 0;
 
         for(char c: s.toCharArray()){
