@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadiixcode/Demo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadiixcode/Demo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aadiixcode/Demo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/aadiixcode/Demo/tree/master/2906-construct-product-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3701-compute-alternating-sum](https://github.com/aadiixcode/Demo/tree/master/3701-compute-alternating-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadiixcode/Demo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aadiixcode/Demo/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/aadiixcode/Demo/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/aadiixcode/Demo/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
