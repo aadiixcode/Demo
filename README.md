@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
 | [1288-remove-covered-intervals](https://github.com/aadiixcode/Demo/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
+| [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadiixcode/Demo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadiixcode/Demo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2906-construct-product-matrix](https://github.com/aadiixcode/Demo/tree/master/2906-construct-product-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
+| [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadiixcode/Demo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aadiixcode/Demo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aadiixcode/Demo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
+| [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aadiixcode/Demo/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Simulation
 |  |
@@ -160,8 +163,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
+| [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 ## Binary Search
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
+## Number Theory
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
+## Bitmask
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
