@@ -1,21 +1,23 @@
 class Solution {
     public List<Integer> sequentialDigits(int low, int high) {
-        Queue<Integer> q = new LinkedList<>();
-        for(int i=1;i<=8;i++){
-            q.add(i);
-        }
-        
+        String digits = "123456789";
         List<Integer> ans = new ArrayList<>();
-        while(!q.isEmpty()){
-            int num = q.poll();
-            if(num>=low && num<=high){
-                ans.add(num);
-            }
-            int lastDigit = num % 10;
-            if(lastDigit+1 <=9 ){
-                q.add((num * 10) + lastDigit+1);
+
+        int minLen = String.valueOf(low).length();
+        int maxLen = String.valueOf(high).length();
+
+        for (int len = minLen; len <= maxLen; len++) {
+
+            for (int start = 0; start + len <= 9; start++) {
+
+                String s = digits.substring(start, start + len);
+                int num = Integer.parseInt(s);
+
+                if (num >= low && num <= high)
+                    ans.add(num);
             }
         }
+
         return ans;
     }
 }
