@@ -8,7 +8,6 @@ class Solution {
                 s[count++] = s[i];
                 if (size > 1) {
                     String temp = String.valueOf(size);
-                    // System.out.println(temp);
                     for (char c : temp.toCharArray()) {
                         s[count++] = c;
                     }
@@ -20,7 +19,6 @@ class Solution {
         s[count++] = s[i];
         if (size > 1) {
             String temp = String.valueOf(size);
-            // System.out.println(temp);
             for (char c : temp.toCharArray()) {
                 s[count++] = c;
             }
