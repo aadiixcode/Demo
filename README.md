@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/aadiixcode/Demo/tree/master/0443-string-compression) |
+| [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [1189-maximum-number-of-balloons](https://github.com/aadiixcode/Demo/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadiixcode/Demo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadiixcode/Demo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/aadiixcode/Demo/tree/master/0238-product-of-array-except-self) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
+| [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [1288-remove-covered-intervals](https://github.com/aadiixcode/Demo/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aadiixcode/Demo/tree/master/1331-rank-transform-of-an-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/aadiixcode/Demo/tree/master/0785-is-graph-bipartite) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
+| [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aadiixcode/Demo/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aadiixcode/Demo/tree/master/0802-find-eventual-safe-states) |
+| [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
