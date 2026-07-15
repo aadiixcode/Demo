@@ -13,9 +13,7 @@ class Solution {
 
     public int gcdOfOddEvenSums(int n) {
         int sumOdd = n * n;
-        n = 2*n;
-        int totalSum = (n * (n + 1)) / 2;
-        int sumEven = totalSum - sumOdd;
+        int sumEven = n*(n+1);
 
         System.out.println(sumOdd);
         System.out.println(sumEven);
