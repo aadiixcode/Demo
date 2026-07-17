@@ -1,25 +1,17 @@
 class Solution {
     public int findMiddleIndex(int[] arr) {
         int n = arr.length;
-        int[] ps = new int[n];
-
-        ps[0] = arr[0];
-        for(int i=1;i<n;i++){
-            ps[i]=ps[i-1]+arr[i];
+        int ts = 0; 
+        for(int e: arr){
+            ts+=e;
         }
 
-        if(ps[n-1]-ps[0]==0){
-            return 0;
-        }
-
-        for(int i=1;i<n;i++){
-            if(ps[i-1]==ps[n-1]-ps[i]){
+        int sum=0;
+        for(int i=0;i<n;i++){
+            sum+=arr[i];
+            if(sum-arr[i]==ts-sum){
                 return i;
             }
-        }
-        
-        if(ps[n-2]==0){
-            return n-1;
         }
         return -1;
     }
