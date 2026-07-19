@@ -1,36 +1,64 @@
 class Solution {
-    static int dfs(int node, List<List<Integer>> adj, int[] vis) {
-        vis[node] = 1;
-        int count = 1;
-        for (int nei : adj.get(node)) {
-            if (vis[nei] == 0) {
-                count += dfs(nei, adj, vis);
+    static class DisjointSet {
+        int[] size;
+        int[] parent;
+
+        int findUltimateParent(int node) {
+            if (parent[node] == node) {
+                return node;
+            }
+            return parent[node] = findUltimateParent(parent[node]);
+        }
+
+        void unionBySize(int u, int v) {
+            int ultimateU = findUltimateParent(u);
+            int ultimateV = findUltimateParent(v);
+
+            if (ultimateU == ultimateV)
+                return;
+
+            int sizeU = size[ultimateU];
+            int sizeV = size[ultimateV];
+
+            if (sizeU < sizeV) {
+                parent[ultimateU] = ultimateV;
+                size[ultimateV] += size[ultimateU];
+            } else {
+                parent[ultimateV] = ultimateU;
+                size[ultimateU] += size[ultimateV];
             }
         }
-        return count;
+
+        DisjointSet(int n) {
+            size = new int[n];
+            parent = new int[n];
+            for (int i = 0; i < n; i++) {
+                size[i] = 1;
+                parent[i] = i;
+            }
+        }
     }
 
     public long countPairs(int n, int[][] edges) {
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
-        }
-
+        DisjointSet d = new DisjointSet(n);
         for (int[] edge : edges) {
             int u = edge[0];
             int v = edge[1];
-            adj.get(u).add(v);
-            adj.get(v).add(u);
+
+            int ultimateU = d.findUltimateParent(u);
+            int ultimateV = d.findUltimateParent(v);
+
+            if (ultimateU != ultimateV) {
+                d.unionBySize(u, v);
+            }
         }
 
-        int[] vis = new int[n];
         long total = 0;
         long ans = 0;
         for (int i = 0; i < n; i++) {
-            if (vis[i] == 0) {
-                long noOfNodes = dfs(i, adj, vis);
-                total += noOfNodes;
-                ans += noOfNodes * (n - total);
+            if (d.parent[i] == i) {
+                total += d.size[i];
+                ans += d.size[i] * (n-total);
             }
         }
         return ans;
