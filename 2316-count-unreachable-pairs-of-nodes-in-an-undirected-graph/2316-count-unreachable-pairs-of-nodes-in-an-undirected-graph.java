@@ -22,7 +22,6 @@ class Solution {
             adj.get(u).add(v);
             adj.get(v).add(u);
         }
-        System.out.println(adj);
 
         int[] vis = new int[n];
         long total = 0;
