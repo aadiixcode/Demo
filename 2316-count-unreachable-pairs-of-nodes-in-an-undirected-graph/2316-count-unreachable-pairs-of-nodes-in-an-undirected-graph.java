@@ -30,7 +30,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             if (vis[i] == 0) {
                 long noOfNodes = dfs(i, adj, vis);
-                System.out.println(noOfNodes);
                 total += noOfNodes;
                 ans += noOfNodes * (n - total);
             }
