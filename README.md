@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aadiixcode/Demo/tree/master/0238-product-of-array-except-self) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/aadiixcode/Demo/tree/master/0724-find-pivot-index) |
+| [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [1288-remove-covered-intervals](https://github.com/aadiixcode/Demo/tree/master/1288-remove-covered-intervals) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [2906-construct-product-matrix](https://github.com/aadiixcode/Demo/tree/master/2906-construct-product-matrix) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aadiixcode/Demo/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/aadiixcode/Demo/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadiixcode/Demo/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/aadiixcode/Demo/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aadiixcode/Demo/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadiixcode/Demo/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/aadiixcode/Demo/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aadiixcode/Demo/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadiixcode/Demo/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
