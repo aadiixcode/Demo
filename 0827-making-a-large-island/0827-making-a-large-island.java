@@ -47,9 +47,15 @@ class Solution {
         int[] cols = { -1, 0, 1, 0 };
 
         DisjointSet d = new DisjointSet(n * m);
+        List<List<Integer>> zeroNodes = new ArrayList<>();
+
         for (int r = 0; r < n; r++) {
             for (int c = 0; c < m; c++) {
-                if (grid[r][c] == 1) {
+                if (grid[r][c] == 0) {
+                    zeroNodes.add(Arrays.asList(r, c));
+                }
+                 
+                else if (grid[r][c] == 1) {
                     for (int k = 0; k < 4; k++) {
                         int nr = rows[k] + r;
                         int nc = cols[k] + c;
@@ -70,38 +76,32 @@ class Solution {
             }
         }
 
-        // System.out.println(Arrays.toString(d.parent));
-        // System.out.println(Arrays.toString(d.size));
+        if (zeroNodes.size() == 0)
+            return n * m;
 
         int ans = 0;
-        for (int i = 0; i < n * m; i++) {
-            if (d.parent[i] == i) {
-                ans = Math.max(ans, d.size[i]);
-            }
-        }
+        for (List<Integer> node : zeroNodes) {
+            int r = node.get(0);
+            int c = node.get(1);
 
-        for (int r = 0; r < n; r++) {
-            for (int c = 0; c < m; c++) {
-                if (grid[r][c] == 0) {
-                    Set<Integer> temp = new HashSet<>();
-                    for (int i = 0; i < 4; i++) {
-                        int nr = rows[i] + r;
-                        int nc = cols[i] + c;
-                        if (nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == 1) {
-                            int v = m * nr + nc;
-                            int ultimateV = d.findUltimateParent(v);
-                            temp.add(ultimateV);
-                        }
-                    }
-
-                    int noOfNodes = 1;
-                    for (int p : temp) {
-                        noOfNodes += d.size[p];
-                    }
-                    ans = Math.max(ans, noOfNodes);
+            Set<Integer> temp = new HashSet<>();
+            for (int i = 0; i < 4; i++) {
+                int nr = rows[i] + r;
+                int nc = cols[i] + c;
+                if (nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == 1) {
+                    int v = m * nr + nc;
+                    int ultimateV = d.findUltimateParent(v);
+                    temp.add(ultimateV);
                 }
             }
+
+            int noOfNodes = 1;
+            for (int p : temp) {
+                noOfNodes += d.size[p];
+            }
+            ans = Math.max(ans, noOfNodes);
         }
+
         return ans;
     }
 }
