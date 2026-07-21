@@ -40,20 +40,12 @@ class Solution {
         int n = stones.length;
         DisjointSet d = new DisjointSet(n);
 
-        for (int i = 0; i < n; i++) {
-            int r = stones[i][0];
-            int c = stones[i][1];
-
-            for (int j = i + 1; j < n; j++) {
-                if (stones[j][0] == r || stones[j][1] == c) {
-                    int u = i;
-                    int v = j;
-                    int ultimateU = d.findUltimateParent(u);
-                    int ultimateV = d.findUltimateParent(v);
-
-                    if (ultimateU != ultimateV) {
-                        d.unionByRank(u, v);
-                    }
+        for (int u = 0; u < n; u++) {
+            int r = stones[u][0];
+            int c = stones[u][1];
+            for (int v = u + 1; v < n; v++) {
+                if (stones[v][0] == r || stones[v][1] == c) {
+                    d.unionByRank(u, v);
                 }
             }
         }
