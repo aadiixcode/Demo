@@ -1,10 +1,10 @@
 class Solution {
     static void dfs(int node,int[] vis,int[][] stones){
         vis[node]=1;
+        int r = stones[node][0];
+        int c = stones[node][1];
 
         for(int i=0;i<stones.length;i++){
-            int r = stones[node][0];
-            int c = stones[node][1];
             if((vis[i]==0) && (stones[i][0]==r || stones[i][1]==c)){
                 dfs(i,vis,stones);
             }   
