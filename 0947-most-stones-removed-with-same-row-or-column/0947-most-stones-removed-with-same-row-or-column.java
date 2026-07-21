@@ -52,7 +52,7 @@ class Solution {
 
         int totalComp = 0;
         for (int i = 0; i < n; i++) {
-            if (d.parent[i] == i) {
+            if (d.findUltimateParent(i) == i) {
                 totalComp += 1;
             }
         }
