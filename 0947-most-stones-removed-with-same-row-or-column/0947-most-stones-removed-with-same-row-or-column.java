@@ -1,61 +1,69 @@
 class Solution {
     static class DisjointSet {
-        int[] rank;
+        int[] size;
         int[] parent;
 
-        DisjointSet(int n) {
-            rank = new int[n];
-            parent = new int[n];
-            for (int i = 0; i < n; i++) {
-                parent[i] = i;
-            }
-        }
-
-        int findUltimateParent(int node) {
-            if (node == parent[node])
+        int findUltimateParent(int node){
+            if(parent[node]==node){
                 return node;
+            }
             return parent[node] = findUltimateParent(parent[node]);
         }
 
-        void unionByRank(int u, int v) {
+
+        void unionBySize(int u, int v){
             int ultimateU = findUltimateParent(u);
             int ultimateV = findUltimateParent(v);
-            if (ultimateU == ultimateV)
-                return;
 
-            int rankU = rank[ultimateU];
-            int rankV = rank[ultimateV];
-            if (rankU < rankV)
+            if(ultimateU==ultimateV) return;
+
+            int sizeU = size[ultimateU];
+            int sizeV = size[ultimateV];
+
+            if(sizeU<sizeV){
                 parent[ultimateU] = ultimateV;
-            else if (rankV < rankU)
+                size[ultimateV] += size[ultimateU];
+            }
+            else{
                 parent[ultimateV] = ultimateU;
-            else {
-                parent[ultimateV] = ultimateU;
-                rank[ultimateU] = rankU + 1;
+                size[ultimateU] += size[ultimateV];
+            }
+        }
+
+        DisjointSet(int n) {
+            size = new int[n];
+            parent = new int[n];
+            for (int i = 0; i<n; i++) {
+                size[i] = 1;
+                parent[i] = i;
             }
         }
     }
 
     public int removeStones(int[][] stones) {
         int n = stones.length;
-        DisjointSet d = new DisjointSet(n);
+        int totalRows = 0;
+        int totalCols = 0;
+        for(int i=0;i<n;i++){
+            totalRows = Math.max(totalRows,stones[i][0]);
+            totalCols = Math.max(totalCols,stones[i][1]);
+        }
 
-        for (int u = 0; u < n; u++) {
-            int r = stones[u][0];
-            int c = stones[u][1];
-            for (int v = u + 1; v < n; v++) {
-                if (stones[v][0] == r || stones[v][1] == c) {
-                    d.unionByRank(u, v);
-                }
-            }
+        int m= totalRows+totalCols+2;
+        DisjointSet obj = new DisjointSet(m);
+        for(int i=0;i<n;i++){
+            int row = stones[i][0];
+            int col = stones[i][1] + totalRows + 1;
+            obj.unionBySize(row,col);
         }
 
         int totalComp = 0;
-        for (int i = 0; i < n; i++) {
-            if (d.findUltimateParent(i) == i) {
+        for (int i=0;i<m;i++){
+            int ultimate = obj.findUltimateParent(i);
+            if(ultimate == i && obj.size[ultimate]>1){
                 totalComp += 1;
             }
         }
-        return n - totalComp;
+        return stones.length - totalComp;
     }
 }
