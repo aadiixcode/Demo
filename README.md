@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/aadiixcode/Demo/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadiixcode/Demo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadiixcode/Demo/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/aadiixcode/Demo/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadiixcode/Demo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Enumeration
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadiixcode/Demo/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/aadiixcode/Demo/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadiixcode/Demo/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/aadiixcode/Demo/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
