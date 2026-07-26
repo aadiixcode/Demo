@@ -1,22 +1,22 @@
 class Solution {
-    static int[] vis;
-    static int[] dt;
-    static int[] low;
+    static int[] visited;
+    static int[] timeOfInsertion;
+    static int[] lowestTime;
     static List<List<Integer>> adj;
 
-    static void dfs(int node, List<List<Integer>> criticals, int dTime, int parent) {
-        vis[node] = 1;
-        dt[node] = dTime;
-        low[node] = dTime;
+    static void dfs(int node, List<List<Integer>> criticals, int timer, int parent) {
+        visited[node] = 1;
+        timeOfInsertion[node] = timer;
+        lowestTime[node] = timer;
 
         for (int nei : adj.get(node)) {
-            if (vis[nei] == 0) {
-                dfs(nei, criticals, dTime + 1, node);
+            if (visited[nei] == 0) {
+                dfs(nei, criticals, timer + 1, node);
             }
             if (nei != parent) {
-                low[node] = Math.min(low[node], low[nei]);
+                lowestTime[node] = Math.min(lowestTime[node], lowestTime[nei]);
             }
-            if (low[nei] > dt[node]) {
+            if (lowestTime[nei] > timeOfInsertion[node]) {
                 List<Integer> edge = new ArrayList<>();
                 edge.add(node);
                 edge.add(nei);
@@ -38,9 +38,9 @@ class Solution {
             adj.get(v).add(u);
         }
 
-        vis = new int[n];
-        dt = new int[n];
-        low = new int[n];
+        visited = new int[n];
+        timeOfInsertion = new int[n];
+        lowestTime = new int[n];
 
         List<List<Integer>> criticals = new ArrayList<>();
         dfs(0, criticals, 0, -1);
