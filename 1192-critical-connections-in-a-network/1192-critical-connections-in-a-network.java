@@ -4,24 +4,21 @@ class Solution {
     static int[] lowestTime;
     static List<List<Integer>> adj;
 
-    static void dfs(int node, List<List<Integer>> criticals, int timer, int parent) {
-        visited[node] = 1;
-        timeOfInsertion[node] = timer;
-        lowestTime[node] = timer;
+    static void dfs(int curr,int parent, int timer, List<List<Integer>> ans){
+        visited[curr] = 1;
+        timeOfInsertion[curr] = timer;
+        lowestTime[curr] = timer;
 
-        for (int nei : adj.get(node)) {
-            if (visited[nei] == 0) {
-                dfs(nei, criticals, timer + 1, node);
+        for(int nei: adj.get(curr)){
+            if(nei==parent) continue;
+            else if(visited[nei]==0){
+                dfs(nei,curr,timer+1,ans);
+                lowestTime[curr] = Math.min(lowestTime[nei],lowestTime[curr]);
+                if(lowestTime[nei] > timeOfInsertion[curr]){
+                    ans.add(new ArrayList<>(Arrays.asList(curr,nei)));
+                }
             }
-            if (nei != parent) {
-                lowestTime[node] = Math.min(lowestTime[node], lowestTime[nei]);
-            }
-            if (lowestTime[nei] > timeOfInsertion[node]) {
-                List<Integer> edge = new ArrayList<>();
-                edge.add(node);
-                edge.add(nei);
-                criticals.add(edge);
-            }
+            else lowestTime[curr] = Math.min(lowestTime[nei],lowestTime[curr]);
         }
     }
 
@@ -43,7 +40,7 @@ class Solution {
         lowestTime = new int[n];
 
         List<List<Integer>> criticals = new ArrayList<>();
-        dfs(0, criticals, 0, -1);
+        dfs(0,-1,0,criticals);
         return criticals;
     }
 }
