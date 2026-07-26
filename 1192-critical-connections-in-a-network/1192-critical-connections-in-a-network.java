@@ -15,12 +15,12 @@ class Solution {
             }
             if (nei != parent) {
                 low[node] = Math.min(low[node], low[nei]);
-            }
-            if (low[nei] > dt[node]) {
-                List<Integer> edge = new ArrayList<>();
-                edge.add(node);
-                edge.add(nei);
-                criticals.add(edge);
+                if (low[nei] > dt[node]) {
+                    List<Integer> edge = new ArrayList<>();
+                    edge.add(node);
+                    edge.add(nei);
+                    criticals.add(edge);
+                }
             }
         }
     }
