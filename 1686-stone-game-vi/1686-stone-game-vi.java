@@ -1,26 +1,27 @@
 class Pair{
-    int index;
-    int profit;
-    Pair(int index,int profit){
-        this.index = index;
-        this.profit = profit;
+    int aliceValue;
+    int bobValue;
+    int totalProfit;
+    Pair(int aliceValue,int bobValue, int totalProfit){
+        this.aliceValue = aliceValue;
+        this.bobValue = bobValue;
+        this.totalProfit = totalProfit;
     }
 }
 
 class Solution {
     public int stoneGameVI(int[] aliceValues, int[] bobValues) {
         int n = aliceValues.length;
-
         PriorityQueue<Pair> pq = new PriorityQueue<>((a,b) ->{
-            if(a.profit==b.profit){
-                return aliceValues[b.index] - aliceValues[a.index];
+            if(a.totalProfit==b.totalProfit){
+                return b.aliceValue - a.aliceValue;
             }
-            return b.profit - a.profit;
+            return b.totalProfit - a.totalProfit;
         });
         
         for(int i=0;i<n;i++){
             int totalProfit = aliceValues[i] + bobValues[i];
-            pq.add(new Pair(i,totalProfit));
+            pq.add(new Pair(aliceValues[i],bobValues[i],totalProfit));
         }
 
         int bobProfit = 0;
@@ -28,14 +29,12 @@ class Solution {
         boolean flag = true;
         while(!pq.isEmpty()){
             Pair p = pq.poll();
-            int index = p.index;
-            int profit = p.profit;
             if(flag){
-                aliceProfit += profit - bobValues[index];
+                aliceProfit += p.totalProfit - p.bobValue;
                 flag=false;
             }
             else{
-                bobProfit += profit - aliceValues[index];
+                bobProfit += p.totalProfit - p.aliceValue;
                 flag=true;
             }
         }
