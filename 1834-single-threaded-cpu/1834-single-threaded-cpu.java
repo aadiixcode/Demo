@@ -20,9 +20,9 @@ class Solution {
             arr.add(l);
         }
         Collections.sort(arr, (a, b) -> {
-            if (a.get(0) == b.get(0)) {
-                return a.get(1) - b.get(1);
-            }
+            // if (a.get(0) == b.get(0)) {
+                // return a.get(1) - b.get(1);
+            // }
             return a.get(0) - b.get(0);
         });
         PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> {
