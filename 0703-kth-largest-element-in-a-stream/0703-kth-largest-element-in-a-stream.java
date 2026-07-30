@@ -23,7 +23,7 @@ class KthLargest {
         if (pq.size() > k) {
             pq.remove();
         }
-        return pq.size() > 0 ? pq.peek() : Integer.MIN_VALUE;
+        return pq.peek();
     }
 }
 
