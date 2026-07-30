@@ -4,14 +4,14 @@ class Solution {
         for (int e : stones) {
             arr.add(e);
         }
-        Collections.sort(arr);
+        Collections.sort(arr,(a,b) -> b-a);
         while(arr.size()>1){
-            int a = arr.removeLast();
-            int b = arr.removeLast();
-            if(a != b){
-                arr.add(a-b);
+            int x = arr.removeFirst();
+            int y = arr.removeFirst();
+            if(x != y){
+                arr.add(x-y);
             }
-            Collections.sort(arr);
+            Collections.sort(arr, (a,b) -> b-a);
         }
         if(arr.size()==1){
             return arr.get(0);
