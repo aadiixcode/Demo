@@ -23,26 +23,21 @@ class Solution {
             pq.add(new Pair(e.getKey(), e.getValue()));
         }
 
-        StringBuilder sb = new StringBuilder();
-        while(pq.size() >= 2){
-            Pair p1 = pq.poll();
-            sb.append(p1.c);
-            p1.freq -= 1;
-
-            Pair p2 = pq.poll();
-            sb.append(p2.c);
-            p2.freq -= 1;
-
-            if(p1.freq > 0){
-                pq.add(p1);
-            }
-            if(p2.freq > 0){
-                pq.add(p2);
+        char[] arr = new char[n];
+        int index = 0;
+        while(pq.size() > 0){
+            Pair p = pq.poll();
+            int freq = p.freq;
+            char c=p.c;
+            while(freq > 0){
+                if(index >= n){
+                    index = 1;
+                }
+                arr[index] = c;
+                index += 2;
+                freq -= 1;
             }
         }
-        if(!pq.isEmpty()){
-            sb.append(pq.peek().c);
-        }
-        return sb.toString();
+        return new String(arr);
     }
 }
