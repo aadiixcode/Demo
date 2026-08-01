@@ -17,7 +17,7 @@ class Solution {
         pq.add(new Pair(matrix[0][0], 0, 0));
 
         int ans = matrix[0][0];
-        while (k > 0 && !pq.isEmpty()) {
+        while (!pq.isEmpty()) {
             Pair p = pq.poll();
             int row = p.row;
             int col = p.col;
