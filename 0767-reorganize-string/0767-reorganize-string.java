@@ -26,22 +26,18 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         while(pq.size() >= 2){
             Pair p1 = pq.poll();
-            char c1 = p1.c;
-            int f1 = p1.freq;
-            f1 -= 1;
-            sb.append(c1);
+            sb.append(p1.c);
+            p1.freq -= 1;
 
             Pair p2 = pq.poll();
-            char c2 = p2.c;
-            int f2 = p2.freq;
-            f2 -= 1;
-            sb.append(c2);
+            sb.append(p2.c);
+            p2.freq -= 1;
 
-            if(f1 > 0){
-                pq.add(new Pair(c1,f1));
+            if(p1.freq > 0){
+                pq.add(p1);
             }
-            if(f2 > 0){
-                pq.add(new Pair(c2,f2));
+            if(p2.freq > 0){
+                pq.add(p2);
             }
         }
         if(!pq.isEmpty()){
