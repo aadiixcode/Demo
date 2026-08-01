@@ -1,30 +1,47 @@
 class Solution {
+    static class Pair {
+        int cost, index;
+
+        Pair(int cost, int index) {
+            this.cost = cost;
+            this.index = index;
+        }
+    }
+
     public long totalCost(int[] costs, int k, int candidates) {
-        int n = costs.length;
-        int i = 0, j = n - 1;
+        int i = 0, j = costs.length - 1;
 
         long totalCost = 0;
-        PriorityQueue<Integer> pq1 = new PriorityQueue<>();
-        PriorityQueue<Integer> pq2 = new PriorityQueue<>();
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> {
+            if (a.cost == b.cost) {
+                return a.index - b.index;
+            }
+            return a.cost - b.cost;
+        });
+
+        int leftPart = 0, rightPart = 0;
         while (k > 0) {
-            while (pq1.size() < candidates && i <= j) {
-                pq1.add(costs[i]);
+            while (leftPart < candidates && i <= j) {
+                pq.add(new Pair(costs[i], i));
+                leftPart += 1;
                 i += 1;
             }
-            while (pq2.size() < candidates && j >= i) {
-                pq2.add(costs[j]);
+            while (rightPart < candidates && j >= i) {
+                pq.add(new Pair(costs[j], j));
+                rightPart += 1;
                 j -= 1;
             }
+            // System.out.println()
 
-            int leftMin = pq1.isEmpty() ? Integer.MAX_VALUE : pq1.peek();
-            int rightMin = pq2.isEmpty() ? Integer.MAX_VALUE : pq2.peek();
+            Pair p = pq.poll();
+            totalCost += p.cost;
+            int index = p.index;
+            k -= 1;
 
-            if (leftMin <= rightMin) {
-                totalCost += pq1.poll();
-                k -= 1;
-            } else {
-                totalCost += pq2.poll();
-                k -= 1;
+            if (index < i) {
+                leftPart -= 1;
+            } else if (index > j) {
+                rightPart -= 1;
             }
         }
         return totalCost;
