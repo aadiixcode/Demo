@@ -1,7 +1,7 @@
 class Solution {
 
-    int helper(int low, int high, int[] arr,int k) {
-        int i = low+1, j = high;
+    int quickSort(int low, int high, int[] arr) {
+        int i = low, j = high;
         int pivot = arr[low];
         while (i <= j) {
             if (arr[i] < pivot && arr[j] > pivot) {
@@ -9,31 +9,42 @@ class Solution {
                 arr[i] = arr[j];
                 arr[j] = temp;
                 i += 1;
-                j -= 1;  
-            } 
+                j -= 1;
+            }
             if (arr[i] >= pivot) {
                 i += 1;
-            } 
-             if (arr[j] <= pivot) {
+            }
+            if (arr[j] <= pivot) {
                 j -= 1;
             }
         }
-        int temp = arr[j];
-        arr[j] = arr[low];
-        arr[low] = temp;
-         
-        if(k < j){
-            return helper(low,j-1,arr,k);
+
+        if (j != low) {
+            int temp = arr[j];
+            arr[j] = arr[low];
+            arr[low] = temp;
         }
-        else if(k > j){
-            return helper(j+1,high,arr,k);
-        }
-        return arr[j];
+        return j;
     }
 
     public int findKthLargest(int[] nums, int k) {
-        int low=0;
-        int high=nums.length-1;
-        return helper(low,high,nums,k-1);
+        int low = 0;
+        int high = nums.length - 1;
+
+        int pivotInd = 0;
+        while (low < high) {
+            pivotInd = quickSort(low, high, nums);
+            if (pivotInd == k - 1) {
+                break;
+            } else if (k - 1 < pivotInd) {
+                high = pivotInd - 1;
+            } else if (k - 1 > pivotInd) {
+                low = pivotInd + 1;
+            }
+        }
+        if (low == high) {
+            pivotInd = low;
+        }
+        return nums[pivotInd];
     }
 }
