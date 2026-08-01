@@ -1,43 +1,40 @@
 class Solution {
-    static class Pair {
-        char c;
-        int freq;
-        Pair(char c, int freq) {
-            this.c = c;
-            this.freq = freq;
-        }
-    }
-
     public String reorganizeString(String s) {
         int n = s.length();
-        Map<Character, Integer> mp = new HashMap<>();
+        int[] freq = new int[26];
+
+        int maxFreq = 0;
+        char maxFreqChar = 'a';
         for (char c : s.toCharArray()) {
-            mp.put(c, mp.getOrDefault(c, 0) + 1);
-            if(mp.get(c) > (n+1)/2){
+            freq[c-'a'] += 1;
+            if(freq[c-'a'] > (n+1)/2){
                 return "";
             }
-        }
-
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> b.freq - a.freq);
-        for (Map.Entry<Character, Integer> e : mp.entrySet()) {
-            pq.add(new Pair(e.getKey(), e.getValue()));
+            if(freq[c-'a'] > maxFreq){
+                maxFreq = freq[c-'a'];
+                maxFreqChar = c;
+            }
         }
 
         char[] arr = new char[n];
         int index = 0;
-        while(pq.size() > 0){
-            Pair p = pq.poll();
-            int freq = p.freq;
-            char c=p.c;
-            while(freq > 0){
-                if(index >= n){
+        while(freq[maxFreqChar-'a'] > 0){
+           arr[index] = maxFreqChar;
+           index += 2;
+           freq[maxFreqChar-'a'] -= 1;
+        }
+
+        for(int i=0;i<26;i++){
+            while(freq[i]>0){
+                if(index>=n){
                     index = 1;
                 }
-                arr[index] = c;
+                arr[index] = (char) ('a'+i);
                 index += 2;
-                freq -= 1;
+                freq[i] -= 1;
             }
         }
+
         return new String(arr);
     }
 }
