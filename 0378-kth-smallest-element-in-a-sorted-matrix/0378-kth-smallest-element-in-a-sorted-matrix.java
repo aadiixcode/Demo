@@ -12,9 +12,9 @@ class Solution {
                     pq.poll();
                     pq.add(element);
                 }
-                else if(element >= pq.peek()){
-                    break;
-                }
+                // else if(element >= pq.peek()){
+                //     break;
+                // }
             }
         }
         return pq.peek();
