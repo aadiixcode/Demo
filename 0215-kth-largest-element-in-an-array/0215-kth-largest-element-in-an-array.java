@@ -1,64 +1,39 @@
 class Solution {
-    
-    private void swap(int[] nums, int x, int y) {
-        int temp = nums[x];
-        nums[x] = nums[y];
-        nums[y] = temp;
-    }
-    
-    public int partition_algo(int[] nums, int L, int R) {
-        
-        int P = nums[L];
-        int i = L+1; //0
-        int j = R; //0
-        
-        while(i <= j) {
-            
-            if(nums[i] < P && nums[j] > P) {
-                swap(nums, i, j);
-                i++;
-                j--;
+
+    int helper(int low, int high, int[] arr,int k) {
+        int i = low+1, j = high;
+        int pivot = arr[low];
+        while (i <= j) {
+            if (arr[i] < pivot && arr[j] > pivot) {
+                int temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
+                i += 1;
+                j -= 1;  
+            } 
+            if (arr[i] >= pivot) {
+                i += 1;
+            } 
+             if (arr[j] <= pivot) {
+                j -= 1;
             }
-            
-            if(nums[i] >= P) {
-                i++;
-            }
-            
-            if(nums[j] <= P) {
-                j--;
-            }
-            
         }
-        
-        swap(nums, L, j);
-        return j; //P is at jth index
+        int temp = arr[j];
+        arr[j] = arr[low];
+        arr[low] = temp;
+         
+        if(k < j){
+            return helper(low,j-1,arr,k);
+        }
+        else if(k > j){
+            return helper(j+1,high,arr,k);
+        }
+        return arr[j];
     }
-    
+
     public int findKthLargest(int[] nums, int k) {
-        int n = nums.length;
-        
-        int L = 0;
-        int R = n-1;
-        
-        int pivot_idx = 0;
-        
-        //kth largest pivot element - nums[k-1] (descendinforder me partition karenge)
-        
-        while(true) {
-            
-            pivot_idx = partition_algo(nums, L, R);
-            
-            if(pivot_idx == k-1) {
-                break;
-            } else if(pivot_idx > k-1) { //2nd larget , 4th larget
-                R = pivot_idx - 1;
-            } else {
-                L = pivot_idx + 1;
-            }
-            
-        }
-        
-        
-        return nums[pivot_idx];
+        int low=0;
+        int high=nums.length-1;
+        return helper(low,high,nums,k-1);
     }
 }
