@@ -28,10 +28,10 @@ class Solution {
                 return new int[] { arr[i], arr[j] };
             }
             j -= 1;
-            if (i < j) {
+            // if (i < j) {
                 double q = ((double) arr[i]) / arr[j];
                 pq.add(new Pair(q, i, j));
-            }
+            // }
         }
         return new int[] { -1, -1 };
     }
