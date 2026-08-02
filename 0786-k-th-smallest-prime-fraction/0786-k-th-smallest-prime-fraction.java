@@ -1,31 +1,38 @@
 class Solution {
     static class Pair {
-        double value;
-        int n1;
-        int n2;
+        double quotient;
+        int i;
+        int j;
 
-        Pair(double value, int n1, int n2) {
-            this.value = value;
-            this.n1 = n1;
-            this.n2 = n2;
+        Pair(double quotient, int i, int j) {
+            this.quotient = quotient;
+            this.i = i;
+            this.j = j;
         }
     }
 
     public int[] kthSmallestPrimeFraction(int[] arr, int k) {
         int n = arr.length;
-        PriorityQueue<Pair> pq = new PriorityQueue<>( (a, b) -> Double.compare(b.value,a.value));
-
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                double value = ((double) arr[i]) / arr[j];
-                pq.add(new Pair(value, arr[i], arr[j]));
-                if (pq.size() > k) {
-                    pq.poll();
-                }
-            }
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> Double.compare(a.quotient, b.quotient));
+        for (int i = 0; i < n-1; i++) {
+            double q = ((double) arr[i]) / arr[n-1];
+            pq.add(new Pair(q, i, n-1));
         }
 
-        Pair p = pq.poll();
-        return new int[] { p.n1, p.n2 };
+        while (!pq.isEmpty()) {
+            Pair p = pq.poll();
+            k -= 1;
+            int i = p.i;
+            int j = p.j;
+            if (k == 0) {
+                return new int[] { arr[i], arr[j] };
+            }
+            j -= 1;
+            if (i < j) {
+                double q = ((double) arr[i]) / arr[j];
+                pq.add(new Pair(q, i, j));
+            }
+        }
+        return new int[] { -1, -1 };
     }
 }
