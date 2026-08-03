@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/aadiixcode/Demo/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/aadiixcode/Demo/tree/master/1331-rank-transform-of-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1834-single-threaded-cpu](https://github.com/aadiixcode/Demo/tree/master/1834-single-threaded-cpu) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aadiixcode/Demo/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/aadiixcode/Demo/tree/master/0724-find-pivot-index) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1991-find-the-middle-index-in-array](https://github.com/aadiixcode/Demo/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/aadiixcode/Demo/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/aadiixcode/Demo/tree/master/2270-number-of-ways-to-split-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1288-remove-covered-intervals](https://github.com/aadiixcode/Demo/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aadiixcode/Demo/tree/master/1331-rank-transform-of-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
 | [1834-single-threaded-cpu](https://github.com/aadiixcode/Demo/tree/master/1834-single-threaded-cpu) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadiixcode/Demo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aadiixcode/Demo/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/aadiixcode/Demo/tree/master/0443-string-compression) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadiixcode/Demo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Biconnected Component
