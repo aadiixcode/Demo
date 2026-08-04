@@ -9,8 +9,7 @@ class Solution {
         while (k > 0) {
             int value = maxHeap.poll();
             score += value;
-
-            double q = (double) value / 3;
+            double q = value / 3.0;
             maxHeap.add((int) Math.ceil(q));
             k -= 1;
         }
