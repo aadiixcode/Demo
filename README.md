@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aadiixcode/Demo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aadiixcode/Demo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/aadiixcode/Demo/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/aadiixcode/Demo/tree/master/0724-find-pivot-index) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/aadiixcode/Demo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadiixcode/Demo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/aadiixcode/Demo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aadiixcode/Demo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
