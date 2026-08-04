@@ -19,9 +19,7 @@ class Solution {
         for (int i = 0; i < listSize; i++) {
             int value = nums.get(i).get(0);
             minHeap.add(new Pair(i, 0, value));
-            if(value > maxValue){
-                maxValue = value;
-            }
+            maxValue = Math.max(maxValue,value);
         }
 
         while (true) {
