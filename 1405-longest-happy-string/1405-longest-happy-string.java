@@ -25,29 +25,24 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         while (!maxHeap.isEmpty()) {
             Pair p1 = maxHeap.poll();
-            char currChar = p1.c;
-            int currCount = p1.freq;
 
             int size = sb.length();
-            if (size >= 2 && sb.charAt(size - 1) == currChar && sb.charAt(size - 2) == currChar) {
+            if (size >= 2 && sb.charAt(size - 1) == p1.c && sb.charAt(size - 2) == p1.c) {
                 if (!maxHeap.isEmpty()) {
                     Pair p2 = maxHeap.poll();
-                    char nextChar = p2.c;
-                    int nextCount = p2.freq;
-                    sb.append(nextChar);
-                    nextCount -= 1;
-                    if (nextCount> 0) {
-                        maxHeap.add(new Pair(nextCount,nextChar));
+                    sb.append(p2.c);
+                    p2.freq -= 1;
+                    if (p2.freq > 0) {
+                        maxHeap.add(p2);
                     }
-                    maxHeap.add(new Pair(currCount,currChar));
+                    maxHeap.add(p1);
                 }
 
-            } 
-            else {
-                sb.append(currChar);
-                currCount -= 1;
-                if (currCount > 0) {
-                    maxHeap.add(new Pair(currCount,currChar));
+            } else {
+                sb.append(p1.c);
+                p1.freq -= 1;
+                if (p1.freq > 0) {
+                    maxHeap.add(p1);
                 }
             }
         }
