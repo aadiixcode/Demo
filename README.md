@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadiixcode/Demo/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aadiixcode/Demo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/aadiixcode/Demo/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3701-compute-alternating-sum](https://github.com/aadiixcode/Demo/tree/master/3701-compute-alternating-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadiixcode/Demo/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadiixcode/Demo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2542-maximum-subsequence-score](https://github.com/aadiixcode/Demo/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadiixcode/Demo/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/aadiixcode/Demo/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadiixcode/Demo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadiixcode/Demo/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadiixcode/Demo/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/aadiixcode/Demo/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Shortest Path
 |  |
 | ------- |
