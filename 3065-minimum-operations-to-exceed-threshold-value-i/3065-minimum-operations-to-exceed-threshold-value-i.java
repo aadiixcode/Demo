@@ -1,18 +1,11 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+        int lessThank = 0;
         for (int e : nums) {
-            minHeap.add(e);
-        }
-
-        int steps = 0;
-        while (!minHeap.isEmpty()) {
-            int e = minHeap.poll();
-            if (e >= k) {
-                break;
+            if (e < k) {
+                lessThank += 1;
             }
-            steps += 1;
         }
-        return steps;
+        return lessThank;
     }
 }
