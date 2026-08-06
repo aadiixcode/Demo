@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadiixcode/Demo/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2906-construct-product-matrix](https://github.com/aadiixcode/Demo/tree/master/2906-construct-product-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aadiixcode/Demo/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aadiixcode/Demo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
