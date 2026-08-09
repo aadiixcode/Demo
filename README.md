@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/aadiixcode/Demo/tree/master/1405-longest-happy-string) |
 | [1544-make-the-string-great](https://github.com/aadiixcode/Demo/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aadiixcode/Demo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/aadiixcode/Demo/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadiixcode/Demo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2381-shifting-letters-ii](https://github.com/aadiixcode/Demo/tree/master/2381-shifting-letters-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/aadiixcode/Demo/tree/master/1189-maximum-number-of-balloons) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/aadiixcode/Demo/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadiixcode/Demo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
