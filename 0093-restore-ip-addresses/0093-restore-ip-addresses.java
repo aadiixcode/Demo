@@ -37,6 +37,9 @@ class Solution {
 
     public List<String> restoreIpAddresses(String s) {
         List<String> ans = new ArrayList<>();
+        if (s.length() > 12) {
+            return ans;
+        }
         helper(0, s, "", 0, ans);
         return ans;
     }
