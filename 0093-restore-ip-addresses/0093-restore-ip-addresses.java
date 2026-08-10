@@ -1,12 +1,4 @@
 class Solution {
-
-    boolean isValid(String s) {
-        if (s.charAt(0) == '0' || Integer.valueOf(s) > 255) {
-            return false;
-        }
-        return true;
-    }
-
     void helper(int index, String s, StringBuilder curr, int parts, List<String> ans) {
         int n = s.length();
         if (index == n || parts == 4) {
