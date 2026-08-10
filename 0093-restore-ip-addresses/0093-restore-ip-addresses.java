@@ -5,7 +5,7 @@ class Solution {
             if (index == n && parts == 4) {
                 curr.deleteCharAt(curr.length() - 1);
                 ans.add(curr.toString());
-                curr.append(".");
+                // curr.append(".");
             }
             return;
         }
