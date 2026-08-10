@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/aadiixcode/Demo/tree/master/0038-count-and-say) |
+| [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0151-reverse-words-in-a-string) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 ## Binary Search
