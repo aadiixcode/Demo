@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aadiixcode/Demo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aadiixcode/Demo/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadiixcode/Demo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/aadiixcode/Demo/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2272-substring-with-largest-variance](https://github.com/aadiixcode/Demo/tree/master/2272-substring-with-largest-variance) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2381-shifting-letters-ii](https://github.com/aadiixcode/Demo/tree/master/2381-shifting-letters-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/aadiixcode/Demo/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadiixcode/Demo/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aadiixcode/Demo/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
