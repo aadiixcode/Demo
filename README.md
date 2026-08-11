@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/aadiixcode/Demo/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadiixcode/Demo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aadiixcode/Demo/tree/master/1657-determine-if-two-strings-are-close) |
+| [2272-substring-with-largest-variance](https://github.com/aadiixcode/Demo/tree/master/2272-substring-with-largest-variance) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadiixcode/Demo/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aadiixcode/Demo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aadiixcode/Demo/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadiixcode/Demo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2272-substring-with-largest-variance](https://github.com/aadiixcode/Demo/tree/master/2272-substring-with-largest-variance) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2381-shifting-letters-ii](https://github.com/aadiixcode/Demo/tree/master/2381-shifting-letters-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aadiixcode/Demo/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadiixcode/Demo/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2272-substring-with-largest-variance](https://github.com/aadiixcode/Demo/tree/master/2272-substring-with-largest-variance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aadiixcode/Demo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aadiixcode/Demo/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Simulation
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/aadiixcode/Demo/tree/master/1291-sequential-digits) |
+| [2272-substring-with-largest-variance](https://github.com/aadiixcode/Demo/tree/master/2272-substring-with-largest-variance) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
