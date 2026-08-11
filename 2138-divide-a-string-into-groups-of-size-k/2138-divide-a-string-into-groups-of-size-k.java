@@ -2,7 +2,6 @@ class Solution {
     public String[] divideString(String s, int k, char fill) {
         int n = s.length();
         int numberOfWords = (int) Math.ceil((double) n/k);
-        // System.out.println(numberOfWords);
         String[] ans = new String[numberOfWords];
         int ansInd = 0;
 
