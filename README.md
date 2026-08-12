@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0859-buddy-strings](https://github.com/aadiixcode/Demo/tree/master/0859-buddy-strings) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadiixcode/Demo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aadiixcode/Demo/tree/master/0520-detect-capital) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0830-positions-of-large-groups](https://github.com/aadiixcode/Demo/tree/master/0830-positions-of-large-groups) |
 | [0848-shifting-letters](https://github.com/aadiixcode/Demo/tree/master/0848-shifting-letters) |
 | [0859-buddy-strings](https://github.com/aadiixcode/Demo/tree/master/0859-buddy-strings) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/aadiixcode/Demo/tree/master/0724-find-pivot-index) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/aadiixcode/Demo/tree/master/0848-shifting-letters) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/aadiixcode/Demo/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
+| [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadiixcode/Demo/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0899-orderly-queue](https://github.com/aadiixcode/Demo/tree/master/0899-orderly-queue) |
@@ -413,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3356-zero-array-transformation-ii](https://github.com/aadiixcode/Demo/tree/master/3356-zero-array-transformation-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -501,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
+| [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 ## String Matching
 |  |
 | ------- |
