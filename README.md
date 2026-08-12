@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/aadiixcode/Demo/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadiixcode/Demo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/aadiixcode/Demo/tree/master/1405-longest-happy-string) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/aadiixcode/Demo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1544-make-the-string-great](https://github.com/aadiixcode/Demo/tree/master/1544-make-the-string-great) |
 | [1592-rearrange-spaces-between-words](https://github.com/aadiixcode/Demo/tree/master/1592-rearrange-spaces-between-words) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aadiixcode/Demo/tree/master/1657-determine-if-two-strings-are-close) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
 | [0899-orderly-queue](https://github.com/aadiixcode/Demo/tree/master/0899-orderly-queue) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/aadiixcode/Demo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadiixcode/Demo/tree/master/1979-find-greatest-common-divisor-of-array) |
