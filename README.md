@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadiixcode/Demo/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2256-minimum-average-difference](https://github.com/aadiixcode/Demo/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/aadiixcode/Demo/tree/master/2270-number-of-ways-to-split-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/aadiixcode/Demo/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2381-shifting-letters-ii](https://github.com/aadiixcode/Demo/tree/master/2381-shifting-letters-ii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aadiixcode/Demo/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadiixcode/Demo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/aadiixcode/Demo/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aadiixcode/Demo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadiixcode/Demo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aadiixcode/Demo/tree/master/3658-gcd-of-odd-and-even-sums) |
