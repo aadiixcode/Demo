@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0151-reverse-words-in-a-string) |
+| [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/aadiixcode/Demo/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aadiixcode/Demo/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/aadiixcode/Demo/tree/master/0451-sort-characters-by-frequency) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
 | [1544-make-the-string-great](https://github.com/aadiixcode/Demo/tree/master/1544-make-the-string-great) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadiixcode/Demo/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Lexicographically Minimal String Rotation
@@ -531,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
