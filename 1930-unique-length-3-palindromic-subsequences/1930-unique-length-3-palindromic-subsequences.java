@@ -18,7 +18,7 @@ class Solution {
         for (int i = 0; i < 26; i++) {
             int startInd = occurence[i][0];
             int endInd = occurence[i][1];
-
+ 
             if (startInd == -1 || endInd == -1) {
                 continue;
             }
