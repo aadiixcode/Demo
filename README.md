@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadiixcode/Demo/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aadiixcode/Demo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadiixcode/Demo/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aadiixcode/Demo/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/aadiixcode/Demo/tree/master/2785-sort-vowels-in-a-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aadiixcode/Demo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadiixcode/Demo/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadiixcode/Demo/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/aadiixcode/Demo/tree/master/2536-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/aadiixcode/Demo/tree/master/2906-construct-product-matrix) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
 | [3355-zero-array-transformation-i](https://github.com/aadiixcode/Demo/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/aadiixcode/Demo/tree/master/3356-zero-array-transformation-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/aadiixcode/Demo/tree/master/3362-zero-array-transformation-iii) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadiixcode/Demo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/aadiixcode/Demo/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aadiixcode/Demo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadiixcode/Demo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aadiixcode/Demo/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadiixcode/Demo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
+| [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aadiixcode/Demo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aadiixcode/Demo/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadiixcode/Demo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
