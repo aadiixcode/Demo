@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/aadiixcode/Demo/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadiixcode/Demo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aadiixcode/Demo/tree/master/1980-find-unique-binary-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/aadiixcode/Demo/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/aadiixcode/Demo/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aadiixcode/Demo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2272-substring-with-largest-variance](https://github.com/aadiixcode/Demo/tree/master/2272-substring-with-largest-variance) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadiixcode/Demo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/aadiixcode/Demo/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/aadiixcode/Demo/tree/master/1991-find-the-middle-index-in-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/aadiixcode/Demo/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadiixcode/Demo/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2256-minimum-average-difference](https://github.com/aadiixcode/Demo/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/aadiixcode/Demo/tree/master/2270-number-of-ways-to-split-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/aadiixcode/Demo/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2536-increment-submatrices-by-one](https://github.com/aadiixcode/Demo/tree/master/2536-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/aadiixcode/Demo/tree/master/2906-construct-product-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aadiixcode/Demo/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadiixcode/Demo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/aadiixcode/Demo/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aadiixcode/Demo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/aadiixcode/Demo/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
