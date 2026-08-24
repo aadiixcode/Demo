@@ -15,13 +15,13 @@ class Solution {
 
         // System.out.println(temp);
 
-        long totalWays = 1;
+        int totalWays = 1;
         for (int i = 2; i < temp.size(); i += 2) {
             if (i + 1 < temp.size()) {
                 int size = temp.get(i) - temp.get(i - 1);
-                totalWays = (totalWays * size) % 1000000007;
+                totalWays = (int) ((1L * totalWays * size) % 1000000007);
             }
         }
-        return (int)totalWays;
+        return totalWays;
     }
 }
