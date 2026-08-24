@@ -13,14 +13,16 @@ class Solution {
         }
 
         int totalLaserBeams = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = i + 1; j < m; j++) {
-                if (securityCount[j] > 0) {
-                    totalLaserBeams += (securityCount[i] * securityCount[j]);
-                    break;
-                }
+        int i = 0;
+        while (i < m) {
+            int c1 = securityCount[i];
+            i += 1;
+            while (i < m && securityCount[i] == 0) {
+                i += 1;
             }
-
+            if (i < m) {
+                totalLaserBeams += (c1 * securityCount[i]);
+            }
         }
         return totalLaserBeams;
     }
