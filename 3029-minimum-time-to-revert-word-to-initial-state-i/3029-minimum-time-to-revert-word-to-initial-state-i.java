@@ -4,8 +4,14 @@ class Solution {
         int i = k;
         int steps = 1;
         while (i < n) {
-            if (word.substring(i, n).equals(word.substring(0, n - i))) {
-                break;
+            int start = 0;
+            int j = i;
+            while (j < n && word.charAt(j) == word.charAt(start)) {
+                j += 1;
+                start += 1;
+            }
+            if (j == n) {
+                return steps;
             } else {
                 i += k;
                 steps += 1;
