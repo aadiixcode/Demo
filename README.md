@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/aadiixcode/Demo/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aadiixcode/Demo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadiixcode/Demo/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadiixcode/Demo/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/aadiixcode/Demo/tree/master/0459-repeated-substring-pattern) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/aadiixcode/Demo/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -588,9 +590,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/aadiixcode/Demo/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Hash Function
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/aadiixcode/Demo/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 <!---LeetCode Topics End-->
