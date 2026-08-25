@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/aadiixcode/Demo/tree/master/2785-sort-vowels-in-a-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aadiixcode/Demo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadiixcode/Demo/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadiixcode/Demo/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3356-zero-array-transformation-ii](https://github.com/aadiixcode/Demo/tree/master/3356-zero-array-transformation-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aadiixcode/Demo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aadiixcode/Demo/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3356-zero-array-transformation-ii](https://github.com/aadiixcode/Demo/tree/master/3356-zero-array-transformation-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/aadiixcode/Demo/tree/master/3362-zero-array-transformation-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadiixcode/Demo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -551,22 +554,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aadiixcode/Demo/tree/master/0459-repeated-substring-pattern) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aadiixcode/Demo/tree/master/0459-repeated-substring-pattern) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aadiixcode/Demo/tree/master/0459-repeated-substring-pattern) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
+## Rolling Hash
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
