@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/aadiixcode/Demo/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0859-buddy-strings](https://github.com/aadiixcode/Demo/tree/master/0859-buddy-strings) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aadiixcode/Demo/tree/master/0520-detect-capital) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/aadiixcode/Demo/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0830-positions-of-large-groups](https://github.com/aadiixcode/Demo/tree/master/0830-positions-of-large-groups) |
 | [0848-shifting-letters](https://github.com/aadiixcode/Demo/tree/master/0848-shifting-letters) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0791-custom-sort-string](https://github.com/aadiixcode/Demo/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/0857-minimum-cost-to-hire-k-workers) |
