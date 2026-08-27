@@ -1,27 +1,29 @@
 class Solution {
     public int compareVersion(String version1, String version2) {
+        String[] arr1 = version1.split("\\.");
+        String[] arr2 = version2.split("\\.");
+
+        System.out.println(Arrays.toString(arr1));
+        System.out.println(Arrays.toString(arr2));
+
         int i = 0, j = 0;
-        int n = version1.length();
-        int m = version2.length();
-        while (i < n || j < m) {
-            int num1 = 0;
-            while (i < n && version1.charAt(i) != '.') {
-                num1 = num1 * 10 + (version1.charAt(i) - '0');
-                i += 1;
+        while (i < arr1.length || j < arr2.length) {
+            int val1 = 0;
+            if (i < arr1.length) {
+                val1 = Integer.valueOf(arr1[i]);
+            }
+            int val2 = 0;
+            if (j < arr2.length) {
+                val2 = Integer.valueOf(arr2[j]);
             }
 
-            int num2 = 0;
-            while (j < m && version2.charAt(j) != '.') {
-                num2 = num2 * 10 + (version2.charAt(j) - '0');
-                j += 1;
-            }
-
-            if (num1 < num2) {
+            if (val1 < val2) {
                 return -1;
             }
-            if (num1 > num2) {
+            if (val1 > val2) {
                 return 1;
             }
+
             i += 1;
             j += 1;
         }
