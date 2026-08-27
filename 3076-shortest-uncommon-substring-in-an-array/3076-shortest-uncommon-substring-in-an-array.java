@@ -1,49 +1,62 @@
 class Solution {
-    void findSubstring(String s, Map<String, Integer> mp, List<String> temp) {
-        Set<String> st = new HashSet<>();
+    void findSubstring(String s, List<String> temp) {
         for (int i = 0; i < s.length(); i++) {
             StringBuilder sb = new StringBuilder();
             for (int j = i; j < s.length(); j++) {
                 sb.append(s.charAt(j));
-                String subString = sb.toString();
-                st.add(subString);
-                temp.add(subString);
+                temp.add(sb.toString());
             }
-        }
-        for (String subString : st) {
-            mp.put(subString, mp.getOrDefault(subString, 0) + 1);
         }
     }
 
     public String[] shortestSubstrings(String[] arr) {
-        Map<String, Integer> mp = new HashMap<>();
         List<String> temp = new ArrayList<>();
+        int n = arr.length;
         for (String s : arr) {
-            findSubstring(s, mp, temp);
+            findSubstring(s, temp);
         }
 
-        String[] ans = new String[arr.length];
-        int ansIndex = 0;
+        // System.out.println(temp);
+
+        String[] answer = new String[n];
+        int index = 0;
+
         int left = 0, right = 0;
         for (String s : arr) {
             int stringSize = s.length();
             left = right;
             right += (stringSize * (stringSize + 1)) / 2;
-            String smallerString = "";
+            // System.out.println(left + ", " + right);
+            Set<String> st = new HashSet<>();
+            for (int i = 0; i < left; i++) {
+                st.add(temp.get(i));
+            }
+            for (int i = right; i < temp.size(); i++) {
+                st.add(temp.get(i));
+            }
+
+            // System.out.println(st);
+
+            String smallestString = null;
             for (int i = left; i < right; i++) {
-                String subString = temp.get(i);
-                if (mp.get(subString) == 1) {
-                    if (smallerString.equals("")
-                            || subString.length() < smallerString.length()
-                            || (subString.length() == smallerString.length()
-                                    && subString.compareTo(smallerString) < 0)) {
-                        smallerString = subString;
+                String currentStr = temp.get(i);
+                if (!st.contains(currentStr)) {
+                    if (smallestString == null ||
+                            currentStr.length() < smallestString.length() ||
+                            (currentStr.length() == smallestString.length()
+                                    && currentStr.compareTo(smallestString) < 0)) {
+                        smallestString = currentStr;
                     }
                 }
             }
-            ans[ansIndex++] = smallerString;
+            if (smallestString == null) {
+                smallestString = "";
+            }
+
+            // System.out.println(smallestString);
+            answer[index++] = smallestString;
         }
-        return ans;
+        return answer;
     }
 }
 
