@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/aadiixcode/Demo/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/aadiixcode/Demo/tree/master/0520-detect-capital) |
+| [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/aadiixcode/Demo/tree/master/0791-custom-sort-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
+| [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0899-orderly-queue](https://github.com/aadiixcode/Demo/tree/master/0899-orderly-queue) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/aadiixcode/Demo/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
+| [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/aadiixcode/Demo/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadiixcode/Demo/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -615,4 +618,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/aadiixcode/Demo/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/aadiixcode/Demo/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
