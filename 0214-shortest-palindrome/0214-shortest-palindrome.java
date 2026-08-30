@@ -11,7 +11,7 @@ class Solution {
         String reverse = new String(arr);
 
         int i = 0;
-        while (i <= n) {
+        while (i < n) {
             String prefix = s.substring(0, n - i);
             String suffix = reverse.substring(i, n);
             if(prefix.equals(suffix)){
@@ -19,6 +19,6 @@ class Solution {
             }
             i += 1;
         }
-        return " ";
+        return "";
     }
 }
