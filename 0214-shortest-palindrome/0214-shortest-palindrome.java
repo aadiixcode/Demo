@@ -19,6 +19,6 @@ class Solution {
             }
             i += 1;
         }
-        return "";
+        return reverse+s;
     }
 }
