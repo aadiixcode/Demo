@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/aadiixcode/Demo/tree/master/2381-shifting-letters-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aadiixcode/Demo/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/aadiixcode/Demo/tree/master/2785-sort-vowels-in-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/aadiixcode/Demo/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aadiixcode/Demo/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aadiixcode/Demo/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadiixcode/Demo/tree/master/2542-maximum-subsequence-score) |
+| [2938-separate-black-and-white-balls](https://github.com/aadiixcode/Demo/tree/master/2938-separate-black-and-white-balls) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadiixcode/Demo/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3362-zero-array-transformation-iii](https://github.com/aadiixcode/Demo/tree/master/3362-zero-array-transformation-iii) |
 ## Sorting
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/aadiixcode/Demo/tree/master/1813-sentence-similarity-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aadiixcode/Demo/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/aadiixcode/Demo/tree/master/2938-separate-black-and-white-balls) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/aadiixcode/Demo/tree/master/3356-zero-array-transformation-ii) |
