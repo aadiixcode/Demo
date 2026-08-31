@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/aadiixcode/Demo/tree/master/0944-delete-columns-to-make-sorted) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [1189-maximum-number-of-balloons](https://github.com/aadiixcode/Demo/tree/master/1189-maximum-number-of-balloons) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/aadiixcode/Demo/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aadiixcode/Demo/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadiixcode/Demo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/aadiixcode/Demo/tree/master/1405-longest-happy-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
 | [1046-last-stone-weight](https://github.com/aadiixcode/Demo/tree/master/1046-last-stone-weight) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/aadiixcode/Demo/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1288-remove-covered-intervals](https://github.com/aadiixcode/Demo/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aadiixcode/Demo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadiixcode/Demo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [1192-critical-connections-in-a-network](https://github.com/aadiixcode/Demo/tree/master/1192-critical-connections-in-a-network) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/aadiixcode/Demo/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadiixcode/Demo/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aadiixcode/Demo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/aadiixcode/Demo/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/aadiixcode/Demo/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/aadiixcode/Demo/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## String Matching
 |  |
