@@ -13,7 +13,8 @@ class Solution {
             }
 
             if (j == m) {
-                return (i - 1) / n + 1;
+                int lastPosition = i;
+                return (int) Math.ceil((double)lastPosition/n);
             }
         }
 
