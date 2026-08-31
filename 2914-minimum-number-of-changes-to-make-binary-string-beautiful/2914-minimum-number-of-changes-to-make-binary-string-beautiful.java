@@ -15,7 +15,7 @@ class Solution {
 
             if (count % 2 == 0) {
                 continue;
-            } else {
+            } else if(i<n) {
                 changes += 1;
                 i += 1;
             }
