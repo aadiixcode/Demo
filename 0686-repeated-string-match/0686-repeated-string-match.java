@@ -1,23 +1,24 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        int n = a.length();
-        int m = b.length();
+        int len_a = a.length();
+        int len_b = b.length();
+        int steps = len_b / len_a;
 
-        for (int start = 0; start < n; start++) {
-            int i = start;
-            int j = 0;
-
-            while (j < m && a.charAt(i % n) == b.charAt(j)) {
-                i++;
-                j++;
-            }
-
-            if (j == m) {
-                int lastPosition = i;
-                return (int) Math.ceil((double)lastPosition/n);
-            }
+        StringBuilder sb = new StringBuilder();
+        for (int i = 1; i <= steps; i++) {
+            sb.append(a);
         }
-
+        if (sb.toString().indexOf(b) != -1) {
+            return steps;
+        }
+        sb.append(a);
+        if (sb.toString().indexOf(b) != -1) {
+            return steps + 1;
+        }
+        sb.append(a);
+        if (sb.toString().indexOf(b) != -1) {
+            return steps + 2;
+        }
         return -1;
     }
 }
