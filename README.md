@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aadiixcode/Demo/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aadiixcode/Demo/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadiixcode/Demo/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3163-string-compression-iii](https://github.com/aadiixcode/Demo/tree/master/3163-string-compression-iii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadiixcode/Demo/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aadiixcode/Demo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
