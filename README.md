@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aadiixcode/Demo/tree/master/0520-detect-capital) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/aadiixcode/Demo/tree/master/0640-solve-the-equation) |
+| [0686-repeated-string-match](https://github.com/aadiixcode/Demo/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/aadiixcode/Demo/tree/master/0791-custom-sort-string) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/aadiixcode/Demo/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/aadiixcode/Demo/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/aadiixcode/Demo/tree/master/0686-repeated-string-match) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/aadiixcode/Demo/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/aadiixcode/Demo/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/aadiixcode/Demo/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/aadiixcode/Demo/tree/master/0686-repeated-string-match) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Knuth–Morris–Pratt Algorithm
@@ -613,12 +616,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/aadiixcode/Demo/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/aadiixcode/Demo/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/aadiixcode/Demo/tree/master/0686-repeated-string-match) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/aadiixcode/Demo/tree/master/0686-repeated-string-match) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Monotonic Stack
