@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadiixcode/Demo/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadiixcode/Demo/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadiixcode/Demo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/aadiixcode/Demo/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aadiixcode/Demo/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/aadiixcode/Demo/tree/master/2938-separate-black-and-white-balls) |
 | [2947-count-beautiful-substrings-i](https://github.com/aadiixcode/Demo/tree/master/2947-count-beautiful-substrings-i) |
 | [2949-count-beautiful-substrings-ii](https://github.com/aadiixcode/Demo/tree/master/2949-count-beautiful-substrings-ii) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadiixcode/Demo/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/aadiixcode/Demo/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/aadiixcode/Demo/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aadiixcode/Demo/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadiixcode/Demo/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aadiixcode/Demo/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadiixcode/Demo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadiixcode/Demo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadiixcode/Demo/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadiixcode/Demo/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/aadiixcode/Demo/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/aadiixcode/Demo/tree/master/3356-zero-array-transformation-ii) |
