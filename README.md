@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aadiixcode/Demo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2272-substring-with-largest-variance](https://github.com/aadiixcode/Demo/tree/master/2272-substring-with-largest-variance) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aadiixcode/Demo/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/aadiixcode/Demo/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2381-shifting-letters-ii](https://github.com/aadiixcode/Demo/tree/master/2381-shifting-letters-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aadiixcode/Demo/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/aadiixcode/Demo/tree/master/2785-sort-vowels-in-a-string) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1813-sentence-similarity-iii](https://github.com/aadiixcode/Demo/tree/master/1813-sentence-similarity-iii) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/aadiixcode/Demo/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/aadiixcode/Demo/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/aadiixcode/Demo/tree/master/2938-separate-black-and-white-balls) |
