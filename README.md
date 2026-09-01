@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/aadiixcode/Demo/tree/master/0848-shifting-letters) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0860-lemonade-change](https://github.com/aadiixcode/Demo/tree/master/0860-lemonade-change) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aadiixcode/Demo/tree/master/0944-delete-columns-to-make-sorted) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/aadiixcode/Demo/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aadiixcode/Demo/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0860-lemonade-change](https://github.com/aadiixcode/Demo/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aadiixcode/Demo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1405-longest-happy-string](https://github.com/aadiixcode/Demo/tree/master/1405-longest-happy-string) |
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
