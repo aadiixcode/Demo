@@ -1,30 +1,19 @@
 class Solution {
     public int maximumLength(String s) {
-        Map<String, Integer> mp = new HashMap<>();
+        Map<Map<Character,Integer>, Integer> mp = new HashMap<>();
         int n = s.length();
         int maxLength = -1;
         for (int i = 0; i < n; i++) {
-            StringBuilder sb = new StringBuilder();
+            char ch = s.charAt(i);
             for (int j = i; j < n; j++) {
-                sb.append(s.charAt(j));
-                String substring = sb.toString();
-                boolean isEqual = true;
-                for (int pos = 1; pos < substring.length(); pos++) {
-                    if (substring.charAt(pos) != substring.charAt(pos - 1)) {
-                        isEqual = false;
-                        break;
-                    }
-                }
-
-                if(!isEqual){
+                if (s.charAt(i) != s.charAt(j)) {
                     break;
                 }
-
-                if (isEqual) {
-                    mp.put(substring, mp.getOrDefault(substring, 0) + 1);
-                    if(mp.get(substring) >= 3){
-                        maxLength = Math.max(maxLength,substring.length());
-                    }
+                Map<Character,Integer> inner = new HashMap<>();
+                inner.put(ch,j-i+1);
+                mp.put(inner, mp.getOrDefault(inner, 0) + 1);
+                if (mp.get(inner) >= 3) {
+                    maxLength = Math.max(maxLength, j-i+1);
                 }
             }
         }
