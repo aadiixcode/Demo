@@ -7,7 +7,8 @@ class Solution {
             if (maxIndex >= n - 1) {
                 return true;
             }
-            if (nums[i] == 0 && maxIndex <= i && i != n - 1) {
+
+            if (nums[i] == 0 && maxIndex <= i) {
                 return false;
             }
             if (nums[i] != 0 && maxIndex < i) {
