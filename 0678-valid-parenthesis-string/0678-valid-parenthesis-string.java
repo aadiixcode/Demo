@@ -9,40 +9,24 @@ class Solution {
             if (ch == '(') {
                 bracket.push(i);
             } else if (ch == ')') {
-                if (!bracket.isEmpty() && s.charAt(bracket.peek()) == '(') {
+                if (!bracket.isEmpty()) {
                     bracket.pop();
+                } else if (!star.isEmpty()) {
+                    star.pop();
                 } else {
-                    if (!star.isEmpty() && star.peek() < i) {
-                        star.pop();
-                    }
-                    else {
-                        return false;
-                    }
+                    return false;
                 }
             } else {
                 star.push(i);
             }
         }
 
-        while(!bracket.isEmpty()){
-            int bracketIndex = bracket.peek();
-            if(s.charAt(bracketIndex) == '('){
-                if (!star.isEmpty() && star.peek() > bracketIndex) {
-                    bracket.pop();
-                    star.pop();
-                }
-                else {
-                    return false;
-                }
-            }
-            else if(s.charAt(bracketIndex) == ')'){
-                if (!star.isEmpty() && star.peek() < bracketIndex) {
-                    bracket.pop();
-                    star.pop();
-                }
-                else {
-                    return false;
-                }
+        while (!bracket.isEmpty() && !star.isEmpty()) {
+            if (star.peek() > bracket.peek()) {
+                bracket.pop();
+                star.pop();
+            } else {
+                return false;
             }
         }
 
