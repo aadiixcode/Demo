@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aadiixcode/Demo/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/aadiixcode/Demo/tree/master/0407-trapping-rain-water-ii) |
+| [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/aadiixcode/Demo/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/aadiixcode/Demo/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/aadiixcode/Demo/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/aadiixcode/Demo/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
+| [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/aadiixcode/Demo/tree/master/0670-maximum-swap) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aadiixcode/Demo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aadiixcode/Demo/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/aadiixcode/Demo/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
