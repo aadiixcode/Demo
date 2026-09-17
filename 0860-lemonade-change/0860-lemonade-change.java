@@ -6,6 +6,7 @@ class Solution {
         for (int bill : bills) {
             if (bill == 5) {
                 fiveCount += 1;
+                continue;
             } else if (bill == 10) {
                 tenCount += 1;
             }
@@ -21,11 +22,9 @@ class Solution {
                 if (fiveCount >= 1 && tenCount >= 1) {
                     fiveCount -= 1;
                     tenCount -= 1;
-                }
-                else if(fiveCount >= 3){
+                } else if (fiveCount >= 3) {
                     fiveCount -= 3;
-                }
-                else{
+                } else {
                     return false;
                 }
             }
