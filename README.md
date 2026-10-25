@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/aadiixcode/Demo/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aadiixcode/Demo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadiixcode/Demo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadiixcode/Demo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aadiixcode/Demo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
