@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/aadiixcode/Demo/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/aadiixcode/Demo/tree/master/1331-rank-transform-of-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadiixcode/Demo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aadiixcode/Demo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/aadiixcode/Demo/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadiixcode/Demo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadiixcode/Demo/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/aadiixcode/Demo/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
