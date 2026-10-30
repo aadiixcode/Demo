@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/aadiixcode/Demo/tree/master/0944-delete-columns-to-make-sorted) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadiixcode/Demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/aadiixcode/Demo/tree/master/1046-last-stone-weight) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/aadiixcode/Demo/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aadiixcode/Demo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/aadiixcode/Demo/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadiixcode/Demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aadiixcode/Demo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadiixcode/Demo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
