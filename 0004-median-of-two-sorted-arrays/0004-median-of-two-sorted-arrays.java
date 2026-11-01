@@ -2,12 +2,13 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n = nums1.length;
         int m = nums2.length;
-        if (n > m) {
-            return findMedianSortedArrays(nums2, nums1);
+        if(n>m){
+            return findMedianSortedArrays(nums2,nums1);
         }
 
         boolean isEven = (n + m) % 2 == 0 ? true : false;
         int elementsReq = isEven ? (n + m) / 2 : (n + m + 1) / 2;
+
         int low = 0, high = n;
         while (low <= high) {
             int mid = low + (high - low) / 2;
@@ -31,6 +32,6 @@ class Solution {
                 return left;
             }
         }
-        return -1;
+        return Integer.MIN_VALUE;
     }
 }
