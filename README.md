@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aadiixcode/Demo/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/aadiixcode/Demo/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/aadiixcode/Demo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadiixcode/Demo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/aadiixcode/Demo/tree/master/0135-candy) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/aadiixcode/Demo/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aadiixcode/Demo/tree/master/0078-subsets) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/aadiixcode/Demo/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Number Theory
