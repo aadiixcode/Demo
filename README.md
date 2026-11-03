@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/aadiixcode/Demo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aadiixcode/Demo/tree/master/0069-sqrtx) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/aadiixcode/Demo/tree/master/0640-solve-the-equation) |
@@ -753,4 +754,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aadiixcode/Demo/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aadiixcode/Demo/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
