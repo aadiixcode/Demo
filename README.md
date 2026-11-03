@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aadiixcode/Demo/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/aadiixcode/Demo/tree/master/0392-is-subsequence) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aadiixcode/Demo/tree/master/0678-valid-parenthesis-string) |
 ## Quicksort
 |  |
