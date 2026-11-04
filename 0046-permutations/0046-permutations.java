@@ -12,6 +12,7 @@ class Solution {
                 temp.add(num);
             }
             ans.add(temp);
+            return;
         }
 
         for (int i = index; i < nums.length; i++) {
