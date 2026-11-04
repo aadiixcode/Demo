@@ -1,5 +1,5 @@
 class Solution {
-    void helper(int[] arr, int index, int n, List<Integer> temp, Set<List<Integer>> ans) {
+    void helper(int[] arr, int index, int n, List<Integer> temp, List<List<Integer>> ans) {
         if (index == n) {
             List<Integer> q = new ArrayList<>(temp);
             ans.add(q);
@@ -12,13 +12,8 @@ class Solution {
     }
 
     public List<List<Integer>> subsets(int[] nums) {
-        Set<List<Integer>> ans = new HashSet<>();
+        List<List<Integer>> ans = new ArrayList<>();
         helper(nums, 0, nums.length, new ArrayList<>(), ans);
-
-        List<List<Integer>> res = new ArrayList<>();
-        for (List<Integer> l : ans) {
-            res.add(l);
-        }
-        return res;
+        return ans;
     }
 }
