@@ -5,23 +5,18 @@ class Solution {
             ans.add(q);
             return;
         }
-        if (num == n + 1) {
-            return;
+
+        for (int i = num; i <= n; i++) {
+            temp.add(i);
+            helper(i + 1, n, k - 1, temp, ans);
+            temp.remove(temp.size() - 1);
         }
-        temp.add(num);
-        helper(num + 1, n, k - 1, temp, ans);
-        temp.remove(temp.size() - 1);
-        helper(num + 1, n, k, temp, ans);
     }
 
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
-        for (int start = 1; start <= n; start++) {
-            temp.add(start);
-            helper(start + 1, n, k - 1, temp, ans);
-            temp.remove(temp.size() - 1);
-        }
+        helper(1, n, k, temp, ans);
         return ans;
     }
 }
