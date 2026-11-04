@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aadiixcode/Demo/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/aadiixcode/Demo/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/aadiixcode/Demo/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aadiixcode/Demo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aadiixcode/Demo/tree/master/0057-insert-interval) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/aadiixcode/Demo/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aadiixcode/Demo/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/aadiixcode/Demo/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aadiixcode/Demo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aadiixcode/Demo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aadiixcode/Demo/tree/master/0090-subsets-ii) |
@@ -773,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aadiixcode/Demo/tree/master/0050-powx-n) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aadiixcode/Demo/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
