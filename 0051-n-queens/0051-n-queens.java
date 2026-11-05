@@ -1,28 +1,6 @@
 class Solution {
-    boolean isSafe(char[][] arr, int n, int row, int col) {
-        int duprow = row, dupcol = col;
-
-        for (int i = row - 1; i >= 0; i--) {
-            if (arr[i][col] == 'Q') {
-                return false;
-            }
-        }
-
-        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if (arr[i][j] == 'Q') {
-                return false;
-            }
-        }
-
-        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
-            if (arr[i][j] == 'Q') {
-                return false;
-            }
-        }
-        return true;
-    }
-
-    void helper(int row, int n, char[][] arr, List<List<String>> ans) {
+    void helper(int row, int n, char[][] arr, List<List<String>> ans, int[] cols, int[] diagonals,
+            int[] antiDiagonals) {
         if (row == n) {
             List<String> temp = new ArrayList<>();
             for (int i = 0; i < n; i++) {
@@ -37,10 +15,22 @@ class Solution {
         }
 
         for (int col = 0; col < n; col++) {
-            if (isSafe(arr, arr.length, row, col)) {
+            if (cols[col] == 0 && diagonals[row + col] == 0 &&
+                    antiDiagonals[row - col + n - 1] == 0) {
                 arr[row][col] = 'Q';
-                helper(row + 1, n, arr, ans);
+
+                cols[col] = 1;
+                diagonals[row + col] = 1;
+                antiDiagonals[row - col + n - 1] = 1;
+
+                helper(row + 1, n, arr, ans, cols, diagonals, antiDiagonals);
+
+                // Backtracking
                 arr[row][col] = '.';
+
+                cols[col] = 0;
+                diagonals[row + col] = 0;
+                antiDiagonals[row - col + n - 1] = 0;
             }
         }
     }
@@ -53,7 +43,12 @@ class Solution {
                 arr[i][j] = '.';
             }
         }
-        helper(0, n, arr, ans);
+
+        int[] cols = new int[n];
+        int[] diagonals = new int[2 * n - 1];
+        int[] antiDiagonals = new int[2 * n - 1];
+
+        helper(0, n, arr, ans, cols, diagonals, antiDiagonals);
         return ans;
     }
 }
