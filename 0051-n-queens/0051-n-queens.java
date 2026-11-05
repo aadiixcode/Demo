@@ -1,38 +1,29 @@
 class Solution {
     boolean isSafe(char[][] arr, int n, int row, int col) {
         int duprow = row, dupcol = col;
-        while (row >= 0 && col >= 0) {
-            if (arr[row][col] == 'Q') {
+
+        for (int i = row - 1; i >= 0; i--) {
+            if (arr[i][col] == 'Q') {
                 return false;
             }
-            row -= 1;
-            col -= 1;
         }
 
-        row = duprow;
-        col = dupcol;
-        while (col >= 0) {
-            if (arr[row][col] == 'Q') {
+        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
+            if (arr[i][j] == 'Q') {
                 return false;
             }
-            col -= 1;
         }
 
-        row = duprow;
-        col = dupcol;
-        while (col >= 0 && row < n) {
-            if (arr[row][col] == 'Q') {
+        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
+            if (arr[i][j] == 'Q') {
                 return false;
             }
-            row += 1;
-            col -= 1;
         }
-
         return true;
     }
 
-    void helper(int col, int n, char[][] arr, List<List<String>> ans) {
-        if (col == n) {
+    void helper(int row, int n, char[][] arr, List<List<String>> ans) {
+        if (row == n) {
             List<String> temp = new ArrayList<>();
             for (int i = 0; i < n; i++) {
                 StringBuilder sb = new StringBuilder();
@@ -45,10 +36,10 @@ class Solution {
             return;
         }
 
-        for (int row = 0; row < n; row++) {
+        for (int col = 0; col < n; col++) {
             if (isSafe(arr, arr.length, row, col)) {
                 arr[row][col] = 'Q';
-                helper(col + 1, n, arr, ans);
+                helper(row + 1, n, arr, ans);
                 arr[row][col] = '.';
             }
         }
