@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/aadiixcode/Demo/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/aadiixcode/Demo/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/aadiixcode/Demo/tree/master/0214-shortest-palindrome) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/aadiixcode/Demo/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/aadiixcode/Demo/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aadiixcode/Demo/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aadiixcode/Demo/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/aadiixcode/Demo/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aadiixcode/Demo/tree/master/0216-combination-sum-iii) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1980-find-unique-binary-string](https://github.com/aadiixcode/Demo/tree/master/1980-find-unique-binary-string) |
