@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aadiixcode/Demo/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/aadiixcode/Demo/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aadiixcode/Demo/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadiixcode/Demo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/aadiixcode/Demo/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aadiixcode/Demo/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadiixcode/Demo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/aadiixcode/Demo/tree/master/0407-trapping-rain-water-ii) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0684-redundant-connection](https://github.com/aadiixcode/Demo/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aadiixcode/Demo/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aadiixcode/Demo/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aadiixcode/Demo/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aadiixcode/Demo/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
