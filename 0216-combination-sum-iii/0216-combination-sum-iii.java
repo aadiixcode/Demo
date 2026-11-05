@@ -7,6 +7,8 @@ class Solution {
             return;
         }
         for (int i = num; i <= 9; i++) {
+            if (i > target)
+                break;
             temp.add(i);
             helper(i + 1, k - 1, target - i, temp, ans);
             temp.remove(temp.size() - 1);
