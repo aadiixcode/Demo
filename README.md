@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadiixcode/Demo/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/aadiixcode/Demo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aadiixcode/Demo/tree/master/0069-sqrtx) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadiixcode/Demo/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/aadiixcode/Demo/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aadiixcode/Demo/tree/master/0206-reverse-linked-list) |
 ## Algorithm X
@@ -796,5 +798,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadiixcode/Demo/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/aadiixcode/Demo/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
