@@ -18,26 +18,38 @@ class Solution {
         if (head == null) {
             return head;
         }
-        Map<Node, Node> mp = new HashMap<>();
-        Node temp = head;
+        Node temp = head, nextNode = null;
         while (temp != null) {
-            Node copy = new Node(temp.val);
-            mp.put(temp, copy);
-            temp = temp.next;
+            Node newNode = new Node(temp.val);
+            nextNode = temp.next;
+            temp.next = newNode;
+            newNode.next = nextNode;
+            temp = nextNode;
         }
         temp = head;
         while (temp != null) {
-            Node copy = mp.get(temp);
-            Node next = temp.next;
-            Node random = temp.random;
-            if (next != null) {
-                copy.next = mp.get(next);
+            Node copyNode = temp.next;
+            Node originalRandom = temp.random;
+            if (originalRandom != null) {
+                copyNode.random = originalRandom.next;
             }
-            if (random != null) {
-                copy.random = mp.get(random);
-            }
-            temp = temp.next;
+            temp = copyNode.next;
         }
-        return mp.get(head);
+
+        Node dummy = new Node(-1);
+        Node ans = dummy;
+        temp = head;
+        while (temp != null) {
+            Node copyNode = temp.next;
+            nextNode = copyNode.next;
+
+            temp.next = nextNode;
+            copyNode.next = null;
+
+            ans.next = copyNode;
+            ans = ans.next;
+            temp = nextNode;
+        }
+        return dummy.next;
     }
 }
