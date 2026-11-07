@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadiixcode/Demo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/aadiixcode/Demo/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadiixcode/Demo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadiixcode/Demo/tree/master/0240-search-a-2d-matrix-ii) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aadiixcode/Demo/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadiixcode/Demo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aadiixcode/Demo/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aadiixcode/Demo/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadiixcode/Demo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/aadiixcode/Demo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aadiixcode/Demo/tree/master/0347-top-k-frequent-elements) |
@@ -804,8 +807,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadiixcode/Demo/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/aadiixcode/Demo/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/aadiixcode/Demo/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aadiixcode/Demo/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aadiixcode/Demo/tree/master/0328-odd-even-linked-list) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aadiixcode/Demo/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
