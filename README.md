@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/aadiixcode/Demo/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/aadiixcode/Demo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aadiixcode/Demo/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/aadiixcode/Demo/tree/master/0621-task-scheduler) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadiixcode/Demo/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/aadiixcode/Demo/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aadiixcode/Demo/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aadiixcode/Demo/tree/master/0328-odd-even-linked-list) |
