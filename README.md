@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadiixcode/Demo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadiixcode/Demo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadiixcode/Demo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aadiixcode/Demo/tree/master/0347-top-k-frequent-elements) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadiixcode/Demo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aadiixcode/Demo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union-Find
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aadiixcode/Demo/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadiixcode/Demo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/aadiixcode/Demo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aadiixcode/Demo/tree/master/0347-top-k-frequent-elements) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/aadiixcode/Demo/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/aadiixcode/Demo/tree/master/0283-move-zeroes) |
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aadiixcode/Demo/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aadiixcode/Demo/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aadiixcode/Demo/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
