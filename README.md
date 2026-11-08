@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aadiixcode/Demo/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aadiixcode/Demo/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/aadiixcode/Demo/tree/master/0282-expression-add-operators) |
+| [0343-integer-break](https://github.com/aadiixcode/Demo/tree/master/0343-integer-break) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/aadiixcode/Demo/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/aadiixcode/Demo/tree/master/0670-maximum-swap) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/aadiixcode/Demo/tree/master/0131-palindrome-partitioning) |
+| [0343-integer-break](https://github.com/aadiixcode/Demo/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/aadiixcode/Demo/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aadiixcode/Demo/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
