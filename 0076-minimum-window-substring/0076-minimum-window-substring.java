@@ -27,10 +27,10 @@ class Solution {
                 }
                 char c = s.charAt(i);
                 if (mp.containsKey(c)) {
-                    if (mp.get(c) >= 0) {
+                    mp.put(c, mp.get(c) + 1);
+                    if (mp.get(c) > 0) {
                         count -= 1;
                     }
-                    mp.put(c, mp.get(c) + 1);
                 }
                 i += 1;
             }
