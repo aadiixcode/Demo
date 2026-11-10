@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/aadiixcode/Demo/tree/master/0846-hand-of-straights) |
 | [0859-buddy-strings](https://github.com/aadiixcode/Demo/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/aadiixcode/Demo/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/aadiixcode/Demo/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadiixcode/Demo/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [1189-maximum-number-of-balloons](https://github.com/aadiixcode/Demo/tree/master/1189-maximum-number-of-balloons) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/aadiixcode/Demo/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/aadiixcode/Demo/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/aadiixcode/Demo/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/aadiixcode/Demo/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aadiixcode/Demo/tree/master/0944-delete-columns-to-make-sorted) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aadiixcode/Demo/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aadiixcode/Demo/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/aadiixcode/Demo/tree/master/0848-shifting-letters) |
+| [0930-binary-subarrays-with-sum](https://github.com/aadiixcode/Demo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadiixcode/Demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/aadiixcode/Demo/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aadiixcode/Demo/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/aadiixcode/Demo/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/aadiixcode/Demo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadiixcode/Demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadiixcode/Demo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aadiixcode/Demo/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
