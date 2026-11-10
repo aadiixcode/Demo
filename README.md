@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aadiixcode/Demo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadiixcode/Demo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/aadiixcode/Demo/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aadiixcode/Demo/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/aadiixcode/Demo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/aadiixcode/Demo/tree/master/0126-word-ladder-ii) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadiixcode/Demo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/aadiixcode/Demo/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadiixcode/Demo/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aadiixcode/Demo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/aadiixcode/Demo/tree/master/0904-fruit-into-baskets) |
