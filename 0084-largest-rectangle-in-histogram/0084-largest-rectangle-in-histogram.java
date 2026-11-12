@@ -1,31 +1,24 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-        int[] ps = new int[n];
-        int[] ns = new int[n];
-
+        int maxWidth = Integer.MIN_VALUE;
         Stack<Integer> st = new Stack<>();
         for (int i = 0; i < n; i++) {
             while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
+                int currInd = st.pop();
+                int prevSmaller = st.isEmpty() ? -1 : st.peek();
+                int nextSmaller = i;
+                int width = heights[currInd] * (nextSmaller - prevSmaller - 1);
+                maxWidth = Math.max(width, maxWidth);
             }
-            ps[i] = st.isEmpty() ? -1 : st.peek();
             st.push(i);
         }
-
-        st = new Stack<>();
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.isEmpty() && heights[st.peek()] >= heights[i]) {
-                st.pop();
-            }
-            ns[i] = st.isEmpty() ? n : st.peek();
-            st.push(i);
-        }
-
-        int maxWidth = Integer.MIN_VALUE;
-        for (int i = 0; i < n; i++) {
-            int length = (i - ps[i]) + (ns[i] - i - 1);
-            maxWidth = Math.max(maxWidth, length * heights[i]);
+        while (!st.isEmpty()) {
+            int currInd = st.pop();
+            int prevSmaller = st.isEmpty() ? -1 : st.peek();
+            int nextSmaller = n;
+            int width = heights[currInd] * (nextSmaller - prevSmaller - 1);
+            maxWidth = Math.max(width, maxWidth);
         }
         return maxWidth;
     }
