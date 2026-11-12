@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aadiixcode/Demo/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/aadiixcode/Demo/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/aadiixcode/Demo/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/aadiixcode/Demo/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aadiixcode/Demo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aadiixcode/Demo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/aadiixcode/Demo/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/aadiixcode/Demo/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aadiixcode/Demo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aadiixcode/Demo/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/aadiixcode/Demo/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/aadiixcode/Demo/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/aadiixcode/Demo/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aadiixcode/Demo/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/aadiixcode/Demo/tree/master/0907-sum-of-subarray-minimums) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aadiixcode/Demo/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/aadiixcode/Demo/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/aadiixcode/Demo/tree/master/0907-sum-of-subarray-minimums) |
 ## Rolling Hash
 |  |
@@ -859,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aadiixcode/Demo/tree/master/0023-merge-k-sorted-lists) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/aadiixcode/Demo/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
