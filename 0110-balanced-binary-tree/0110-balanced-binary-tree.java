@@ -20,26 +20,16 @@ class Solution {
         }
         int left = depth(root.left);
         int right = depth(root.right);
+        if (left == -1 || right == -1) {
+            return -1;
+        }
+        if (Math.abs(left - right) > 1) {
+            return -1;
+        }
         return 1 + Math.max(left, right);
     }
 
     public boolean isBalanced(TreeNode root) {
-        if (root == null) {
-            return true;
-        }
-
-        int leftheight = depth(root.left);
-        int rightheight = depth(root.right);
-
-        if (Math.abs(leftheight - rightheight) > 1) {
-            return false;
-        }
-
-        boolean left = isBalanced(root.left);
-        boolean right = isBalanced(root.right);
-        if (left && right) {
-            return true;
-        }
-        return false;
+        return  depth(root) == -1 ? false : true;
     }
 }
