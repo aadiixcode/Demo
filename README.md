@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aadiixcode/Demo/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/aadiixcode/Demo/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/aadiixcode/Demo/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/aadiixcode/Demo/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadiixcode/Demo/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aadiixcode/Demo/tree/master/0451-sort-characters-by-frequency) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aadiixcode/Demo/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aadiixcode/Demo/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/aadiixcode/Demo/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aadiixcode/Demo/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aadiixcode/Demo/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/aadiixcode/Demo/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/aadiixcode/Demo/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/aadiixcode/Demo/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aadiixcode/Demo/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aadiixcode/Demo/tree/master/0328-odd-even-linked-list) |
@@ -894,4 +897,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aadiixcode/Demo/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aadiixcode/Demo/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
