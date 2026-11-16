@@ -17,27 +17,25 @@
 class Solution {
     Map<Integer, Integer> mp;
 
-    TreeNode helper(int preOrderInd, int startInd, int endInd,
+    TreeNode helper(int[] preOrderInd, int startInd, int endInd,
             int[] preorder) {
 
-        if (startInd > endInd)
+        if (startInd > endInd) {
             return null;
+        }
 
-        int value = preorder[preOrderInd];
+        int value = preorder[preOrderInd[0]];
         TreeNode root = new TreeNode(value);
-
         int valueInd = mp.get(value);
 
-        int leftSize = valueInd - startInd;
-
+        preOrderInd[0] += 1;
         root.left = helper(
-                preOrderInd + 1,
+                preOrderInd,
                 startInd,
                 valueInd - 1,
                 preorder);
-
         root.right = helper(
-                preOrderInd + leftSize + 1,
+                preOrderInd,
                 valueInd + 1,
                 endInd,
                 preorder);
@@ -52,6 +50,6 @@ class Solution {
             mp.put(inorder[i], i);
         }
 
-        return helper(0, 0, inorder.length - 1, preorder);
+        return helper(new int[] { 0 }, 0, inorder.length - 1, preorder);
     }
 }
