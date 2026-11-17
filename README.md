@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/aadiixcode/Demo/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/aadiixcode/Demo/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/aadiixcode/Demo/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/aadiixcode/Demo/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/aadiixcode/Demo/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/aadiixcode/Demo/tree/master/0402-remove-k-digits) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aadiixcode/Demo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aadiixcode/Demo/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aadiixcode/Demo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0662-maximum-width-of-binary-tree) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aadiixcode/Demo/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/aadiixcode/Demo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/aadiixcode/Demo/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/aadiixcode/Demo/tree/master/0684-redundant-connection) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/aadiixcode/Demo/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aadiixcode/Demo/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/aadiixcode/Demo/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aadiixcode/Demo/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/aadiixcode/Demo/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -781,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aadiixcode/Demo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aadiixcode/Demo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aadiixcode/Demo/tree/master/0703-kth-largest-element-in-a-stream) |
