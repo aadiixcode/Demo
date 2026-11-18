@@ -21,9 +21,9 @@ class Solution {
 
         TreeNode root = new TreeNode(preorder[start]);
 
-        if (start == end) {
-            return root;
-        }
+        // if (start == end) {
+        //     return root;
+        // }
 
         int index = start + 1;
         while (index <= end && preorder[index] < preorder[start]) {
