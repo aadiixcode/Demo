@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/aadiixcode/Demo/tree/master/1834-single-threaded-cpu) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aadiixcode/Demo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/aadiixcode/Demo/tree/master/1901-find-a-peak-element-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aadiixcode/Demo/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aadiixcode/Demo/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadiixcode/Demo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadiixcode/Demo/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/aadiixcode/Demo/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aadiixcode/Demo/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aadiixcode/Demo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadiixcode/Demo/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2272-substring-with-largest-variance](https://github.com/aadiixcode/Demo/tree/master/2272-substring-with-largest-variance) |
