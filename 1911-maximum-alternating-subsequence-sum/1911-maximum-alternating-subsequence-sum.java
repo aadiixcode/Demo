@@ -6,7 +6,7 @@ class Solution {
             return 0;
         }
 
-        if (dp[index][positive] != Long.MIN_VALUE) {
+        if (dp[index][positive] != -1) {
             return dp[index][positive];
         }
 
@@ -25,7 +25,7 @@ class Solution {
         dp = new long[nums.length][2];
 
         for (int i = 0; i < nums.length; i++) {
-            Arrays.fill(dp[i], Long.MIN_VALUE);
+            Arrays.fill(dp[i], -1);
         }
 
         helper(nums, 0, 1);
