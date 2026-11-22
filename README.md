@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aadiixcode/Demo/tree/master/0520-detect-capital) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aadiixcode/Demo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0640-solve-the-equation](https://github.com/aadiixcode/Demo/tree/master/0640-solve-the-equation) |
+| [0647-palindromic-substrings](https://github.com/aadiixcode/Demo/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/aadiixcode/Demo/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/aadiixcode/Demo/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/aadiixcode/Demo/tree/master/0721-accounts-merge) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aadiixcode/Demo/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aadiixcode/Demo/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/aadiixcode/Demo/tree/master/0472-concatenated-words) |
+| [0647-palindromic-substrings](https://github.com/aadiixcode/Demo/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/aadiixcode/Demo/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/aadiixcode/Demo/tree/master/0907-sum-of-subarray-minimums) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aadiixcode/Demo/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/aadiixcode/Demo/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aadiixcode/Demo/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/aadiixcode/Demo/tree/master/0647-palindromic-substrings) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/aadiixcode/Demo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1813-sentence-similarity-iii](https://github.com/aadiixcode/Demo/tree/master/1813-sentence-similarity-iii) |
