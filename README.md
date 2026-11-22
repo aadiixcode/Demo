@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aadiixcode/Demo/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/aadiixcode/Demo/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/aadiixcode/Demo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/aadiixcode/Demo/tree/master/0093-restore-ip-addresses) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aadiixcode/Demo/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/aadiixcode/Demo/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadiixcode/Demo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aadiixcode/Demo/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/aadiixcode/Demo/tree/master/0300-longest-increasing-subsequence) |
