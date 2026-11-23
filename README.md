@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aadiixcode/Demo/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/aadiixcode/Demo/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aadiixcode/Demo/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/aadiixcode/Demo/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/aadiixcode/Demo/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/aadiixcode/Demo/tree/master/0343-integer-break) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aadiixcode/Demo/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aadiixcode/Demo/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/aadiixcode/Demo/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadiixcode/Demo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aadiixcode/Demo/tree/master/0131-palindrome-partitioning) |
@@ -1052,4 +1054,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/aadiixcode/Demo/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aadiixcode/Demo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
