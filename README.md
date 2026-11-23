@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aadiixcode/Demo/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aadiixcode/Demo/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/aadiixcode/Demo/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/aadiixcode/Demo/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/aadiixcode/Demo/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aadiixcode/Demo/tree/master/0078-subsets) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/aadiixcode/Demo/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/aadiixcode/Demo/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadiixcode/Demo/tree/master/0240-search-a-2d-matrix-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aadiixcode/Demo/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aadiixcode/Demo/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/aadiixcode/Demo/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/aadiixcode/Demo/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadiixcode/Demo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aadiixcode/Demo/tree/master/0131-palindrome-partitioning) |
