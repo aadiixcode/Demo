@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadiixcode/Demo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aadiixcode/Demo/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/aadiixcode/Demo/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadiixcode/Demo/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aadiixcode/Demo/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadiixcode/Demo/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aadiixcode/Demo/tree/master/0045-jump-game-ii) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadiixcode/Demo/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadiixcode/Demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/aadiixcode/Demo/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/aadiixcode/Demo/tree/master/0148-sort-list) |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Manacher
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadiixcode/Demo/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/aadiixcode/Demo/tree/master/0214-shortest-palindrome) |
 ## Bracket Sequences
 |  |
