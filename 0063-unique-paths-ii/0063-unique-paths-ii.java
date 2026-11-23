@@ -9,7 +9,7 @@ class Solution {
             return 0;
         }
 
-        if (dp[i][j] != 0) {
+        if (dp[i][j] != -1) {
             return dp[i][j];
         }
 
@@ -28,6 +28,9 @@ class Solution {
             return 0;
         }
         dp = new int[n][m];
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(dp[i], -1);
+        }
         return helper(0, 0, obstacleGrid, m, n);
     }
 }
