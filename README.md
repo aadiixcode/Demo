@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadiixcode/Demo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadiixcode/Demo/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/aadiixcode/Demo/tree/master/1539-kth-missing-positive-number) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aadiixcode/Demo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aadiixcode/Demo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1686-stone-game-vi](https://github.com/aadiixcode/Demo/tree/master/1686-stone-game-vi) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aadiixcode/Demo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/aadiixcode/Demo/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/aadiixcode/Demo/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2536-increment-submatrices-by-one](https://github.com/aadiixcode/Demo/tree/master/2536-increment-submatrices-by-one) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/aadiixcode/Demo/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aadiixcode/Demo/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aadiixcode/Demo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1799-maximize-score-after-n-operations](https://github.com/aadiixcode/Demo/tree/master/1799-maximize-score-after-n-operations) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/aadiixcode/Demo/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aadiixcode/Demo/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
