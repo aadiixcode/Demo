@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aadiixcode/Demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/aadiixcode/Demo/tree/master/1046-last-stone-weight) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/aadiixcode/Demo/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aadiixcode/Demo/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aadiixcode/Demo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/aadiixcode/Demo/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/aadiixcode/Demo/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/aadiixcode/Demo/tree/master/0931-minimum-falling-path-sum) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aadiixcode/Demo/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aadiixcode/Demo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/aadiixcode/Demo/tree/master/1901-find-a-peak-element-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/aadiixcode/Demo/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/aadiixcode/Demo/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/aadiixcode/Demo/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/aadiixcode/Demo/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aadiixcode/Demo/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aadiixcode/Demo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
