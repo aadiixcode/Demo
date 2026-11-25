@@ -1,6 +1,6 @@
 class Solution {
     int helper(int i, int j, int n, int[][] dp, int[][] arr) {
-        if (i >= n || i < 0 | j >= n || j < 0) {
+        if (i >= n || i < 0 || j >= n || j < 0) {
             return Integer.MAX_VALUE;
         }
 
