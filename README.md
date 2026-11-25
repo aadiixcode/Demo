@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/aadiixcode/Demo/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadiixcode/Demo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aadiixcode/Demo/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/aadiixcode/Demo/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadiixcode/Demo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aadiixcode/Demo/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/aadiixcode/Demo/tree/master/0238-product-of-array-except-self) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aadiixcode/Demo/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/aadiixcode/Demo/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aadiixcode/Demo/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/aadiixcode/Demo/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadiixcode/Demo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/aadiixcode/Demo/tree/master/0407-trapping-rain-water-ii) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/aadiixcode/Demo/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadiixcode/Demo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/aadiixcode/Demo/tree/master/0131-palindrome-partitioning) |
+| [0174-dungeon-game](https://github.com/aadiixcode/Demo/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/aadiixcode/Demo/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/aadiixcode/Demo/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/aadiixcode/Demo/tree/master/0368-largest-divisible-subset) |
