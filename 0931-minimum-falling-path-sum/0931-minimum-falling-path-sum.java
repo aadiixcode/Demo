@@ -22,11 +22,11 @@ class Solution {
     public int minFallingPathSum(int[][] matrix) {
         int ans = Integer.MAX_VALUE;
         int n = matrix.length;
+        int[][] dp = new int[n][n];
+        for (int j = 0; j < n; j++) {
+            Arrays.fill(dp[j], Integer.MAX_VALUE);
+        }
         for (int i = 0; i < n; i++) {
-            int[][] dp = new int[n][n];
-            for (int j = 0; j < n; j++) {
-                Arrays.fill(dp[j], Integer.MAX_VALUE);
-            }
             ans = Math.min(ans, helper(0, i, n, dp, matrix));
         }
         return ans;
