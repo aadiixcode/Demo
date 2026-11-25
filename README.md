@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aadiixcode/Demo/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/aadiixcode/Demo/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/aadiixcode/Demo/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/aadiixcode/Demo/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aadiixcode/Demo/tree/master/0944-delete-columns-to-make-sorted) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aadiixcode/Demo/tree/master/0990-satisfiability-of-equality-equations) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadiixcode/Demo/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/aadiixcode/Demo/tree/master/0407-trapping-rain-water-ii) |
 | [0827-making-a-large-island](https://github.com/aadiixcode/Demo/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/aadiixcode/Demo/tree/master/0931-minimum-falling-path-sum) |
 | [0959-regions-cut-by-slashes](https://github.com/aadiixcode/Demo/tree/master/0959-regions-cut-by-slashes) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aadiixcode/Demo/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aadiixcode/Demo/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aadiixcode/Demo/tree/master/0792-number-of-matching-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/aadiixcode/Demo/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/aadiixcode/Demo/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/aadiixcode/Demo/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/aadiixcode/Demo/tree/master/1301-number-of-paths-with-max-score) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aadiixcode/Demo/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
